@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module referenceFile="mystery_part_sip_3_100mil.fzp" moduleId="FS 1000A_a58bbf99fa3290b6a18a5bfb19c18298_6">
+ <version>4</version>
+ <author>Studio Pieters</author>
+ <title>FS1000A - 433Mhz RF Transmitter</title>
+ <label>U</label>
+ <date>wo okt 28 2020</date>
+ <tags>
+  <tag>433Mhz RF Transmitter</tag>
+  <tag>fritzing core</tag>
+  <tag>FS1000A</tag>
+ </tags>
+ <properties>
+  <property name="package">THT</property>
+  <property name="part number"></property>
+  <property name="pins">3</property>
+  <property name="pin spacing">100mil</property>
+  <property name="family">433Mhz</property>
+  <property name="layer"></property>
+  <property name="hole size"></property>
+  <property name="variant">433Mhz RF Transmitter</property>
+  <property name="editable pin labels">false</property>
+  <property name="chip label">FS1000A</property>
+  <property name="layout">Single Row</property>
+ </properties>
+ <taxonomy>part.mystery.magical.3.pins</taxonomy>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">This is 433Mhz RF transmitter with receiver kit for Arduino ARM MCU wireless&lt;br />Application environment:&lt;br />Remote control switch, receiver module, motorcycles, automobile anti-theft products, home security products, electric doors, shutter doors, windows, remote control socket, remote control LED, remote audio remote control electric doors, garage door remote control, remote control retractable doors, remote volume gate, pan doors, remote control door opener, door closing device control system, remote control curtains, alarm host, alarm, remote control motorcycle remote control electric cars, remote control MP3.&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-weight:600;">Transmitter:&lt;/span>&lt;br />Technical parameters of&lt;br />Product Model: XD-FST&lt;br />Launch distance :20-200 meters (different voltage, different results)&lt;br />Operating voltage :3.5-12V&lt;br />Dimensions: 19 * 19mm&lt;br />Operating mode: AM&lt;br />Transfer rate: 4KB / S&lt;br />Transmitting power: 10mW&lt;br />Transmitting frequency: 433M&lt;br />Pinout from left → right: (DATA; VCC; GND)&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/FS 1000A_86fc78de14b7bdf2675f4a79542c8db1_3_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/FS 1000A_86fc78de14b7bdf2675f4a79542c8db1_3_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/FS 1000A_86fc78de14b7bdf2675f4a79542c8db1_3_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/FS 1000A_86fc78de14b7bdf2675f4a79542c8db1_3_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector type="male" id="connector0" name="DATA">
+   <description>pin 1</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector1" name="VCC">
+   <description>pin 2</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector2" name="GND">
+   <description>pin 3</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector3" name="Antenna">
+   <description>pin 3</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector3pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector3pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector3pin" layer="copper0"/>
+     <p svgId="connector3pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>www.studiopieters.nl</url>
+</module>

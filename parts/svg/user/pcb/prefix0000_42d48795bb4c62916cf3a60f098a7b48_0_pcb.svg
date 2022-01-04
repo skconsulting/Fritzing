@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg"  x="0in" height="0.417323in" version="1.2" viewBox="0 0 7.067 10.6" baseProfile="tiny" width="0.278228in" y="0in" xmlns:svg="http://www.w3.org/2000/svg">
+    <desc>
+        <referenceFile>sparkfun-poweric_dpak-5_pcb.svg</referenceFile>
+    </desc>
+    <g id="copper1">
+        <rect connectorname="GND" x="0.6435" height="6.4" fill="#F7BD13" id="connector2pad" stroke-linecap="round" width="5.8" y="8.88178e-16" stroke-width="0" stroke="none"/>
+        <rect connectorname="VOUT" x="4.2835" height="2.2" fill="#F7BD13" id="connector4pad" stroke-linecap="round" width="0.8" y="8.4" stroke-width="0" stroke="none"/>
+        <rect connectorname="ADJ" x="5.4235" height="2.2" fill="#F7BD13" id="connector0pad" stroke-linecap="round" width="0.8" y="8.4" stroke-width="0" stroke="none"/>
+        <rect connectorname="EN" x="0.8635" height="2.2" fill="#F7BD13" id="connector1pad" stroke-linecap="round" width="0.8" y="8.4" stroke-width="0" stroke="none"/>
+        <rect connectorname="VIN" x="2.0035" height="2.2" fill="#F7BD13" id="connector3pad" stroke-linecap="round" width="0.8" y="8.4" stroke-width="0" stroke="none"/>
+        <g id="copper0"/>
+    </g>
+    <g id="silkscreen">
+        <line class="other" x2="0.0635" stroke-linecap="round" y1="1.17" y2="1.17" stroke-width="0.127" stroke="#f0f0f0" x1="0.4535"/>
+        <line class="other" x2="0.0635" stroke-linecap="round" y1="1.17" y2="7.58" stroke-width="0.127" stroke="#f0f0f0" x1="0.0635"/>
+        <line class="other" x2="0.5435" stroke-linecap="round" y1="7.58" y2="7.58" stroke-width="0.127" stroke="#f0f0f0" x1="0.0635"/>
+        <line class="other" x2="0.5435" stroke-linecap="round" y1="1.17" y2="1.17" stroke-width="0.127" stroke="#f0f0f0" x1="0.0635"/>
+        <line class="other" x2="7.0035" stroke-linecap="round" y1="7.58" y2="7.58" stroke-width="0.127" stroke="#f0f0f0" x1="6.6135"/>
+        <line class="other" x2="7.0035" stroke-linecap="round" y1="7.58" y2="1.17" stroke-width="0.127" stroke="#f0f0f0" x1="7.0035"/>
+        <line class="other" x2="6.5235" stroke-linecap="round" y1="1.17" y2="1.17" stroke-width="0.127" stroke="#f0f0f0" x1="7.0035"/>
+        <line class="other" x2="6.5235" stroke-linecap="round" y1="7.58" y2="7.58" stroke-width="0.127" stroke="#f0f0f0" x1="7.0035"/>
+        <circle class="other" r="0.1" fill="none" cx="1.2735" stroke-width="0.254" stroke="#f0f0f0" cy="7.7"/>
+        <circle class="other" r="0.1" fill="none" cx="2.3835" stroke-width="0.254" stroke="#f0f0f0" cy="7.7"/>
+        <circle class="other" r="0.1" fill="none" cx="4.6635" stroke-width="0.254" stroke="#f0f0f0" cy="7.7"/>
+        <circle class="other" r="0.1" fill="none" cx="5.7735" stroke-width="0.254" stroke="#f0f0f0" cy="7.7"/>
+    </g>
+</svg>

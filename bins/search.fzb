@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.9b.2021-09-22.CD-348-0-f0af53a9" icon="Search.png" search="l298">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="Ponte-H L298N_dc34ee980426c09a6ce219f055923b75_2" modelIndex="85416535" path="C:/Users/sylvain/Documents/Fritzing/parts/user/Ponte-H L298N_dc34ee980426c09a6ce219f055923b75_2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-L298_BRIDGE_DRIVER-" modelIndex="85416536" path="C:/Users/sylvain/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-poweric-l298_bridge_driver-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Motor Shield rev3" modelIndex="85416537" path="C:/Users/sylvain/AppData/Local/Programs/Fritzing/fritzing-parts/core/Arduino_Motor_Shield_rev3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Ardumoto v13" modelIndex="85416538" path="C:/Users/sylvain/AppData/Local/Programs/Fritzing/fritzing-parts/core/Ardumoto v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-L298-HEATSINK" modelIndex="85416539" path="C:/Users/sylvain/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-poweric-l298-heatsink.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-L298-" modelIndex="85416540" path="C:/Users/sylvain/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-poweric-l298-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MonsterMoto-Shield-v12" modelIndex="85416541" path="C:/Users/sylvain/AppData/Local/Programs/Fritzing/fritzing-parts/core/MonsterMoto-Shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Modkit Shield-v1a" modelIndex="85416542" path="C:/Users/sylvain/AppData/Local/Programs/Fritzing/fritzing-parts/core/Modkit Shield-v1a.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

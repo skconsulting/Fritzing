@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.9b.2021-09-22.CD-348-0-f0af53a9" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="XD-RF-5V_34c299a4fb21b1ce2a989562f158299f_1" modelIndex="5864" path="C:/Users/sylvain/Documents/Fritzing/parts/user/XD-RF-5V_34c299a4fb21b1ce2a989562f158299f_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Ponte-H L298N_dc34ee980426c09a6ce219f055923b75_2" modelIndex="5865" path="C:/Users/sylvain/Documents/Fritzing/parts/user/Ponte-H L298N_dc34ee980426c09a6ce219f055923b75_2.fzp" flippedSMD="true">
+            <property name="flippedSMD" value="true"/>
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Nano3(fix)" modelIndex="5866" path="C:/Users/sylvain/AppData/Local/Programs/Fritzing/fritzing-parts/core/Arduino Nano3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FS 1000A_a58bbf99fa3290b6a18a5bfb19c18298_6" modelIndex="5873" path="C:/Users/sylvain/Documents/Fritzing/parts/user/FS 1000A_a58bbf99fa3290b6a18a5bfb19c18298_6.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TDA2030_ca955c7aaa1542aaa10c04533d7c377b_1" modelIndex="6719" path="C:/Users/sylvain/Documents/Fritzing/parts/user/TDA2030_ca955c7aaa1542aaa10c04533d7c377b_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="L200_Pentawatt_4d6c9c26d797f3ff7e898dea8fe0194f_1" modelIndex="6861" path="C:/Users/sylvain/Documents/Fritzing/parts/user/L200_Pentawatt_4d6c9c26d797f3ff7e898dea8fe0194f_1.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="screw_terminal_2_100mil" modelIndex="9286" path="C:/Users/sylvain/AppData/Local/Programs/Fritzing/fritzing-parts/core/screw_terminal_2_100mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="1000FADF10011leg" modelIndex="9559" path="C:/Users/sylvain/AppData/Local/Programs/Fritzing/fritzing-parts/core/dc_motor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-RESISTOR-2010-ResistorModuleID" modelIndex="9701" path="C:/Users/sylvain/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-passives-resistor-2010smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="fb258071-7a2a-49cf-ba81-3dd52526a3aaCapacitorModuleID" modelIndex="10114" path="C:/Users/sylvain/AppData/Local/Programs/Fritzing/fritzing-parts/core/SMD_elko_1010.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="75f728f5-a5d6-435d-8790-d57fd4f5cafeCapacitorModuleID" modelIndex="10460" path="C:/Users/sylvain/AppData/Local/Programs/Fritzing/fritzing-parts/core/SMD_multilayer-capacitor_0805.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="c7cab155adbdc5e675838ce7405e80cd_28" modelIndex="85411246" path="C:/Users/sylvain/AppData/Roaming/Fritzing/partfactory/eba9afa9c2842f7f84b50ebafb6729e4/contrib/generic_ic_dip_22_300mil.fzp_c7cab155adbdc5e675838ce7405e80cd_28.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="c7cab155adbdc5e675838ce7405e80cd_28" modelIndex="85411252" path="C:/Users/sylvain/AppData/Roaming/Fritzing/partfactory/eba9afa9c2842f7f84b50ebafb6729e4/contrib/generic_ic_dip_22_300mil.fzp_c7cab155adbdc5e675838ce7405e80cd_28.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

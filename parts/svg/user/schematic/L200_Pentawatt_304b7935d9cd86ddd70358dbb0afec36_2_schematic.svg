@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 610.37712 410.33748" version="1.2"  width="0.61037689in" height="0.41033733in" gorn="0" id="Ebene_1">
+    <metadata  id="metadata684">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs682"/>
+    <desc  id="desc2">
+        <referenceFile >TDA2030_ca955c7aaa1542aaa10c04533d7c377b_1_schematic.svg</referenceFile>
+    </desc>
+    <g  gorn="0.3" id="schematic">
+        <line stroke-width="10" y1="4.9176121"  x1="305.36591" y2="105.41975" fill="none" stroke="#555555" x2="305.36591" gorn="0.3.0" id="connector3pin" stroke-linecap="round"/>
+        <rect x="300.35605" y="0.24113841" stroke-width="0"  width="10" fill="none" height="10" gorn="0.3.1" id="connector3terminal"/>
+        <text x="540.16187" y="192.41617" font-family="Droid Sans"  font-size="35" fill="#555555" gorn="0.3.2" id="text7">5</text>
+        <line stroke-width="10" y1="104.94273"  x1="4.9176121" y2="104.94273" fill="none" stroke="#555555" x2="100.51204" gorn="0.3.3" id="connector0pin" stroke-linecap="round"/>
+        <rect x="0.41470599" y="99.841637" stroke-width="0"  width="10" fill="none" height="10" gorn="0.3.4" id="connector0terminal"/>
+        <text x="54.280411" y="293.63339" font-family="Droid Sans"  font-size="35" fill="#555555" gorn="0.3.5" id="text42">2</text>
+        <line stroke-width="10" y1="305.31973"  x1="100.40762" y2="305.31973" fill="none" stroke="#555555" x2="5.0220251" gorn="0.3.6" id="connector1pin" stroke-linecap="round"/>
+        <rect x="0.35594073" y="300.24124" stroke-width="0"  width="10" fill="none" height="10" gorn="0.3.7" id="connector1terminal"/>
+        <text x="55.902206" y="86.237679" font-family="Droid Sans"  font-size="35" fill="#555555" gorn="0.3.8" id="text124">1</text>
+        <line stroke-width="10" y1="304.91772"  x1="305.06396" y2="405.41986" fill="none" stroke="#555555" x2="305.06396" gorn="0.3.9" id="connector2pin" stroke-linecap="round"/>
+        <rect x="300.35605" y="400.24127" stroke-width="0"  width="10" fill="none" height="10" gorn="0.3.10" id="connector2terminal"/>
+        <text x="325.69565" y="339.41553" font-family="Droid Sans"  font-size="35" fill="#555555" gorn="0.3.11" id="text293">3</text>
+        <line stroke-width="10" y1="205.3197"  x1="605.06671" y2="205.3197" fill="none" stroke="#555555" x2="505.36325" gorn="0.3.12" id="connector4pin" stroke-linecap="round"/>
+        <rect x="600.35608" y="200.2412" stroke-width="0"  width="10" fill="none" height="10" gorn="0.3.13" id="connector4terminal"/>
+        <text x="314.78711" y="97.082916" font-family="Droid Sans"  font-size="35" fill="#555555" gorn="0.3.14" id="text398">4</text>
+        <text x="159.27115" y="222.16864" font-family="Droid Sans"  font-size="80" gorn="0.3.15" id="label_3_">L200</text>
+        <line stroke-width="10" y1="8.7871695"  x1="109.46329" y2="206.55786" fill="none" stroke="#000000" x2="502.61316" gorn="0.3.16" id="line106"/>
+        <line stroke-width="10" y1="204.48146"  x1="501.61652" y2="399.68942" fill="none" stroke="#000000" x2="107.70709" gorn="0.3.17" id="line108"/>
+        <line stroke-width="10" y1="4.6189208"  x1="105.42589" y2="404.60703" fill="none" stroke="#000000" x2="105.42589" gorn="0.3.18" id="line110"/>
+        <text x="127.07417" y="109.172" font-family="Droid Sans"  font-size="30" fill="#555555" gorn="0.3.19" id="text28">INPUT</text>
+        <text x="131.74002" y="288.54715" font-family="Droid Sans"  font-size="30" fill="#555555" gorn="0.3.20" id="text30">LIMIT</text>
+        <text x="259.71854" y="142.09052" font-family="Droid Sans"  font-size="30" fill="#555555" gorn="0.3.21" id="text32">REF</text>
+        <text x="258.30991" y="279.96857" font-family="Droid Sans"  font-size="30" fill="#555555" gorn="0.3.22" id="text34">GND</text>
+        <text x="340.72614" y="223.01437" font-family="Droid Sans"  font-size="30" fill="#555555" gorn="0.3.23" id="text36">OUTPUT</text>
+    </g>
+</svg>

@@ -1,0 +1,1256 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" gorn="0" width="201.60001" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="svg2" version="1.1"  height="86.400002" viewBox="0 0 201.60001 86.400002" xml:space="preserve">
+    <desc >
+        <referenceFile >schema.svg</referenceFile>
+    </desc>
+    <metadata id="metadata8" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs6" />
+    <g transform="matrix(1.3333333,0,0,-1.3333333,0,86.4)" >
+        <g >
+            <g gorn="0.3.0.0" id="g10" >
+                <g gorn="0.3.0.0.0" id="g12" >
+                    <g gorn="0.3.0.0.0.0" id="g14"  clip-path="url(#clipPath18)">
+                        <path gorn="0.3.0.0.0.0.0" stroke-width="1" id="path20" stroke-opacity="1" stroke="#000000" fill="none"  d="M 136.35,0.45 H 14.85 V 64.8 h 121.5 z" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;"/>
+                        <g transform="translate(0.4502,57.6501)" >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.1.0.0" id="g22" >
+                                    <path gorn="0.3.0.0.0.0.1.0.0.0" stroke-width="0.69999999" id="path24" stroke-opacity="1" stroke="#787878" fill="none"  d="M 0,0 H 14.4" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(0.4502,50.5002)" >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.2.0.0" id="g26" >
+                                    <path gorn="0.3.0.0.0.0.2.0.0.0" stroke-width="0.69999999" stroke-opacity="1" id="connector8pin" stroke="#787878" fill="none"  d="M 0,0 H 14.4" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(0.4502,43.3498)" >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.3.0.0" id="g30" >
+                                    <path gorn="0.3.0.0.0.0.3.0.0.0" stroke-width="0.69999999" id="connector2pin" stroke-opacity="1" stroke="#787878" fill="none"  d="M 0,0 H 14.4" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(0.4502,36.1999)" >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.4.0.0" id="g34" >
+                                    <path gorn="0.3.0.0.0.0.4.0.0.0" stroke-width="0.69999999" id="path36" stroke-opacity="1" stroke="#787878" fill="none"  d="M 0,0 H 14.4" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(0.4502,29.05)" >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.5.0.0" id="g38" >
+                                    <path gorn="0.3.0.0.0.0.5.0.0.0" stroke-width="0.69999999" id="path40" stroke-opacity="1" stroke="#787878" fill="none"  d="M 0,0 H 14.4" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(0.4502,21.8996)" >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.6.0.0" id="g42" >
+                                    <path gorn="0.3.0.0.0.0.6.0.0.0" stroke-width="0.69999999" id="connector3pin" stroke-opacity="1" stroke="#787878" fill="none"  d="M 0,0 H 14.4" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(0.4502,14.7502)" >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.7.0.0" id="g46" >
+                                    <path gorn="0.3.0.0.0.0.7.0.0.0" stroke-width="0.69999999" stroke-opacity="1" id="connector9pin" stroke="#787878" fill="none"  d="M 0,0 H 14.4" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(0.4502,7.5998)" >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.8.0.0" id="g50" >
+                                    <path gorn="0.3.0.0.0.0.8.0.0.0" stroke-width="0.69999999" id="connector12pin" stroke-opacity="1" stroke="#787878" fill="none"  d="M 0,0 H 14.4" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(136.3496,57.6501)" >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.9.0.0" id="g54" >
+                                    <path gorn="0.3.0.0.0.0.9.0.0.0" stroke-width="0.69999999" id="connector0pin" stroke-opacity="1" stroke="#787878" fill="none"  d="M 0,0 H 14.4" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(136.3496,50.5002)" >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.10.0.0" id="g58" >
+                                    <path gorn="0.3.0.0.0.0.10.0.0.0" stroke-width="0.69999999" stroke-opacity="1" id="connector11pin" stroke="#787878" fill="none"  d="M 0,0 H 14.4" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(136.3496,43.3498)" >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.11.0.0" id="g62" >
+                                    <path gorn="0.3.0.0.0.0.11.0.0.0" stroke-width="0.69999999" id="connector4pin" stroke-opacity="1" stroke="#787878" fill="none"  d="M 0,0 H 14.4" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(136.3496,36.1999)" >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.12.0.0" id="g66" >
+                                    <path gorn="0.3.0.0.0.0.12.0.0.0" stroke-width="0.69999999" id="connector1pin" stroke-opacity="1" stroke="#787878" fill="none"  d="M 0,0 H 14.4" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(136.3496,29.05)" >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.13.0.0" id="g70" >
+                                    <path gorn="0.3.0.0.0.0.13.0.0.0" stroke-width="0.69999999" id="connector7pin" stroke-opacity="1" stroke="#787878" fill="none"  d="M 0,0 H 14.4" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(136.3496,21.8996)" >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.14.0.0" id="g74" >
+                                    <path gorn="0.3.0.0.0.0.14.0.0.0" stroke-width="0.69999999" id="connector5pin" stroke-opacity="1" stroke="#787878" fill="none"  d="M 0,0 H 14.4" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(136.3496,14.7502)" >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.15.0.0" id="g78" >
+                                    <path gorn="0.3.0.0.0.0.15.0.0.0" stroke-width="0.69999999" stroke-opacity="1" id="connector10pin" stroke="#787878" fill="none"  d="M 0,0 H 14.4" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(136.3496,7.5998)" >
+                            <g >
+                                <g gorn="0.3.0.0.0.0.16.0.0" id="g82" >
+                                    <path gorn="0.3.0.0.0.0.16.0.0.0" stroke-width="0.69999999" id="path84" stroke-opacity="1" stroke="#787878" fill="none"  d="M 0,0 H 14.4" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="translate(7.7391,60.7617)" >
+                    <g >
+                        <g gorn="0.3.0.0.1.0.0" id="g86" >
+                            <path gorn="0.3.0.0.1.0.0.0" id="path88" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 -0.428,-0.229 0.052,-0.201 0.34,0.183 h 0.006 v -1.708 h 0.255 l 0,1.955 z" style="fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+                <g gorn="0.3.0.0.2" id="g90" >
+                    <g gorn="0.3.0.0.2.0" id="g92"  clip-path="url(#clipPath96)">
+                        <g transform="translate(7.1348,51.7072)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.0.0.0" id="g98" >
+                                    <path gorn="0.3.0.0.2.0.0.0.0.0" id="path100" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V 0.162 L 0.208,0.364 C 0.707,0.839 0.932,1.091 0.935,1.386 0.935,1.584 0.839,1.768 0.547,1.768 0.37,1.768 0.223,1.677 0.132,1.602 L 0.048,1.789 C 0.184,1.903 0.376,1.987 0.601,1.987 1.022,1.987 1.199,1.698 1.199,1.419 1.199,1.058 0.938,0.767 0.526,0.37 L 0.37,0.226 V 0.219 H 1.248 V 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(7.1978,44.9108)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.1.0.0" id="g102" >
+                                    <path gorn="0.3.0.0.2.0.1.0.0.0" id="path104" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0.075,-0.048 0.25,-0.124 0.433,-0.124 0.339,0 0.445,0.217 0.442,0.379 C 0.872,0.529 0.625,0.646 0.37,0.646 H 0.223 V 0.845 H 0.37 c 0.192,0 0.436,0.099 0.436,0.33 C 0.806,1.332 0.707,1.47 0.463,1.47 0.307,1.47 0.156,1.401 0.072,1.34 L 0.003,1.533 c 0.102,0.075 0.301,0.15 0.511,0.15 0.385,0 0.559,-0.228 0.559,-0.466 0,-0.201 -0.12,-0.372 -0.361,-0.46 V 0.751 C 0.953,0.703 1.148,0.523 1.148,0.25 c 0,-0.313 -0.243,-0.587 -0.712,-0.587 -0.219,0 -0.412,0.069 -0.508,0.132 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(7.9526,38.2463)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.2.0.0" id="g106" >
+                                    <path gorn="0.3.0.0.2.0.2.0.0.0" id="path108" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V 0.652 C 0,0.755 0.003,0.857 0.009,0.959 H 0 C -0.061,0.845 -0.108,0.761 -0.163,0.67 L -0.641,0.006 V 0 Z m 0,-0.739 v 0.532 h -0.908 v 0.174 l 0.872,1.248 H 0.249 V 0 H 0.523 V -0.207 H 0.249 v -0.532 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(8.3013,32.1389)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.3.0.0" id="g110" >
+                                    <path gorn="0.3.0.0.2.0.3.0.0.0" id="path112" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 h -0.746 l -0.075,-0.502 c 0.045,0.006 0.088,0.013 0.159,0.013 0.151,0 0.301,-0.033 0.421,-0.106 0.154,-0.087 0.28,-0.256 0.28,-0.502 0,-0.382 -0.304,-0.668 -0.727,-0.668 -0.214,0 -0.395,0.061 -0.487,0.121 l 0.066,0.202 c 0.081,-0.048 0.24,-0.109 0.418,-0.109 0.249,0 0.462,0.162 0.462,0.424 -0.002,0.253 -0.171,0.433 -0.562,0.433 -0.111,0 -0.198,-0.012 -0.271,-0.021 l 0.127,0.938 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(8.1748,23.9475)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.4.0.0" id="g114" >
+                                    <path gorn="0.3.0.0.2.0.4.0.0.0" id="path116" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,0.28 -0.159,0.448 -0.403,0.448 -0.159,0 -0.306,-0.099 -0.379,-0.24 -0.017,-0.03 -0.03,-0.069 -0.03,-0.117 0.006,-0.322 0.154,-0.56 0.43,-0.56 C -0.153,-0.469 0,-0.279 0,0 m 0.075,1.128 c -0.054,0.003 -0.123,0 -0.198,-0.013 -0.415,-0.068 -0.634,-0.372 -0.68,-0.694 h 0.01 c 0.093,0.124 0.255,0.225 0.471,0.225 0.346,0 0.59,-0.249 0.59,-0.63 0,-0.359 -0.244,-0.689 -0.65,-0.689 -0.417,0 -0.691,0.324 -0.691,0.833 0,0.385 0.138,0.688 0.33,0.88 0.163,0.16 0.379,0.259 0.626,0.289 0.078,0.012 0.144,0.015 0.192,0.015 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(8.4033,18.1613)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.5.0.0" id="g118" >
+                                    <path gorn="0.3.0.0.2.0.5.0.0.0" id="path120" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 v -0.174 l -0.851,-1.78 h -0.273 l 0.848,1.728 V -0.22 H -1.232 V 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(7.4355,10.592)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.6.0.0" id="g122" >
+                                    <path gorn="0.3.0.0.2.0.6.0.0.0" id="path124" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,-0.195 0.147,-0.3 0.373,-0.36 0.541,-0.304 0.67,-0.183 0.67,-0.006 0.67,0.15 0.577,0.312 0.339,0.312 0.12,0.312 0,0.169 0,0 m 0.727,-0.977 c 0,0.238 -0.165,0.352 -0.43,0.427 -0.228,-0.066 -0.351,-0.217 -0.351,-0.402 -0.009,-0.199 0.141,-0.373 0.39,-0.373 0.238,0 0.391,0.147 0.391,0.348 m -1.052,-0.011 c 0,0.246 0.147,0.421 0.388,0.522 L 0.06,-0.457 c -0.216,0.103 -0.31,0.271 -0.31,0.439 0,0.31 0.262,0.52 0.604,0.52 0.379,0 0.569,-0.237 0.569,-0.481 0,-0.165 -0.082,-0.342 -0.322,-0.457 v -0.008 c 0.244,-0.097 0.394,-0.268 0.394,-0.505 0,-0.34 -0.292,-0.569 -0.664,-0.569 -0.409,0 -0.656,0.244 -0.656,0.53" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(142.7197,60.5148)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.7.0.0" id="g126" >
+                                    <path gorn="0.3.0.0.2.0.7.0.0.0" id="path128" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 h -0.006 l -0.34,-0.184 -0.05,0.202 0.426,0.229 H 0.256 V -1.708 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(144.7246,59.4475)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.8.0.0" id="g130" >
+                                    <path gorn="0.3.0.0.2.0.8.0.0.0" id="path132" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,0.28 -0.159,0.448 -0.402,0.448 -0.16,0 -0.307,-0.099 -0.379,-0.24 -0.018,-0.031 -0.031,-0.07 -0.031,-0.118 0.006,-0.321 0.154,-0.559 0.43,-0.559 C -0.153,-0.469 0,-0.279 0,0 M 0.075,1.127 C 0.021,1.13 -0.048,1.127 -0.123,1.115 -0.538,1.046 -0.757,0.743 -0.803,0.421 h 0.01 c 0.093,0.123 0.255,0.225 0.472,0.225 0.345,0 0.589,-0.249 0.589,-0.631 0,-0.358 -0.244,-0.688 -0.65,-0.688 -0.417,0 -0.691,0.324 -0.691,0.833 0,0.384 0.138,0.688 0.331,0.88 0.162,0.16 0.379,0.259 0.625,0.289 0.078,0.012 0.144,0.015 0.192,0.015 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(142.7197,53.4147)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.9.0.0" id="g134" >
+                                    <path gorn="0.3.0.0.2.0.9.0.0.0" id="path136" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 h -0.006 l -0.34,-0.184 -0.05,0.202 0.426,0.229 H 0.256 V -1.708 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(144.8516,53.4387)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.10.0.0" id="g138" >
+                                    <path gorn="0.3.0.0.2.0.10.0.0.0" id="path140" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 h -0.746 l -0.075,-0.502 c 0.045,0.006 0.088,0.012 0.159,0.012 0.15,0 0.301,-0.033 0.421,-0.105 0.153,-0.087 0.28,-0.256 0.28,-0.502 0,-0.382 -0.304,-0.668 -0.727,-0.668 -0.214,0 -0.395,0.06 -0.488,0.121 l 0.067,0.201 c 0.081,-0.048 0.24,-0.108 0.418,-0.108 0.249,0 0.462,0.162 0.462,0.424 -0.002,0.252 -0.171,0.433 -0.562,0.433 -0.111,0 -0.198,-0.013 -0.271,-0.021 l 0.126,0.938 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(142.7197,46.3147)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.11.0.0" id="g142" >
+                                    <path gorn="0.3.0.0.2.0.11.0.0.0" id="path144" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 h -0.006 l -0.34,-0.184 -0.05,0.202 0.426,0.229 H 0.256 V -1.708 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(144.5029,45.3464)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.12.0.0" id="g146" >
+                                    <path gorn="0.3.0.0.2.0.12.0.0.0" id="path148" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V 0.652 C 0,0.755 0.003,0.857 0.009,0.959 H 0 C -0.061,0.845 -0.108,0.761 -0.163,0.67 L -0.641,0.006 V 0 Z m 0,-0.739 v 0.532 h -0.908 v 0.174 l 0.872,1.248 H 0.249 V 0 H 0.522 V -0.207 H 0.249 v -0.532 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(142.7197,39.2146)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.13.0.0" id="g150" >
+                                    <path gorn="0.3.0.0.2.0.13.0.0.0" id="path152" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 h -0.006 l -0.34,-0.184 -0.05,0.202 0.426,0.229 H 0.256 V -1.708 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(143.748,37.8107)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.14.0.0" id="g154" >
+                                    <path gorn="0.3.0.0.2.0.14.0.0.0" id="path156" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0.075,-0.048 0.249,-0.124 0.433,-0.124 0.339,0 0.445,0.217 0.442,0.379 C 0.872,0.529 0.625,0.646 0.37,0.646 H 0.223 V 0.845 H 0.37 c 0.192,0 0.436,0.099 0.436,0.33 0,0.157 -0.1,0.295 -0.343,0.295 C 0.307,1.47 0.156,1.401 0.072,1.34 L 0.003,1.533 c 0.102,0.075 0.301,0.15 0.511,0.15 0.384,0 0.559,-0.228 0.559,-0.466 0,-0.201 -0.12,-0.372 -0.361,-0.46 V 0.751 C 0.953,0.703 1.148,0.523 1.148,0.25 c 0,-0.313 -0.244,-0.587 -0.712,-0.587 -0.219,0 -0.412,0.069 -0.508,0.132 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(142.7197,32.1149)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.15.0.0" id="g158" >
+                                    <path gorn="0.3.0.0.2.0.15.0.0.0" id="path160" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 h -0.006 l -0.34,-0.184 -0.05,0.202 0.426,0.229 H 0.256 V -1.708 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(143.6846,30.4074)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.16.0.0" id="g162" >
+                                    <path gorn="0.3.0.0.2.0.16.0.0.0" id="path164" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V 0.162 L 0.208,0.364 C 0.707,0.839 0.932,1.092 0.936,1.386 0.936,1.584 0.839,1.768 0.547,1.768 0.37,1.768 0.223,1.677 0.133,1.602 L 0.049,1.789 c 0.135,0.114 0.327,0.198 0.553,0.198 0.42,0 0.597,-0.289 0.597,-0.568 0,-0.36 -0.261,-0.652 -0.673,-1.049 L 0.37,0.226 V 0.22 H 1.248 V 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(142.7197,25.0148)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.17.0.0" id="g166" >
+                                    <path gorn="0.3.0.0.2.0.17.0.0.0" id="path168" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 h -0.006 l -0.34,-0.184 -0.05,0.203 0.426,0.228 h 0.226 v -1.954 l -0.256,0 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(144.2588,25.0148)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.18.0.0" id="g170" >
+                                    <path gorn="0.3.0.0.2.0.18.0.0.0" id="path172" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 h -0.006 l -0.34,-0.184 -0.05,0.203 0.426,0.228 h 0.226 v -1.954 l -0.256,0 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(142.7197,17.9152)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.19.0.0" id="g174" >
+                                    <path gorn="0.3.0.0.2.0.19.0.0.0" id="path176" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 h -0.006 l -0.34,-0.184 -0.05,0.202 0.426,0.228 H 0.256 V -1.708 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(143.9219,17.175)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.20.0.0" id="g178" >
+                                    <path gorn="0.3.0.0.2.0.20.0.0.0" id="path180" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.508 0.157,-0.796 0.397,-0.796 0.271,0 0.4,0.316 0.4,0.815 0,0.48 -0.123,0.796 -0.397,0.796 C 0.169,0.815 0,0.532 0,0 m 1.062,0.03 c 0,-0.664 -0.247,-1.031 -0.68,-1.031 -0.382,0 -0.64,0.358 -0.646,1.004 0,0.656 0.283,1.017 0.679,1.017 0.412,0 0.647,-0.368 0.647,-0.99" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(143.165,10.4182)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.21.0.0" id="g182" >
+                                    <path gorn="0.3.0.0.2.0.21.0.0.0" id="path184" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.244 0.147,-0.415 0.376,-0.415 0.177,0 0.315,0.087 0.385,0.204 0.014,0.024 0.023,0.055 0.023,0.097 0,0.334 -0.123,0.589 -0.399,0.589 C 0.159,0.475 0,0.276 0,0 m -0.097,-1.124 c 0.058,-0.007 0.123,0 0.214,0.009 0.154,0.02 0.298,0.084 0.408,0.189 0.13,0.117 0.223,0.288 0.259,0.52 H 0.775 c -0.108,-0.132 -0.264,-0.21 -0.46,-0.21 -0.351,0 -0.577,0.264 -0.577,0.597 0,0.371 0.268,0.695 0.667,0.695 0.401,0 0.647,-0.324 0.647,-0.823 0,-0.43 -0.145,-0.731 -0.337,-0.917 C 0.564,-1.212 0.357,-1.302 0.147,-1.326 0.051,-1.341 -0.033,-1.344 -0.097,-1.341 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(17.8716,59.6364)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.22.0.0" id="g186" >
+                                    <path gorn="0.3.0.0.2.0.22.0.0.0" id="path188" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 H -0.788 V -0.73 H 0.09 V -0.95 H -1.049 V 1.076 H 0.045 V 0.857 h -0.833 v -0.64 l 0.788,0 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(18.2896,59.7478)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.23.0.0" id="g190" >
+                                    <path gorn="0.3.0.0.2.0.23.0.0.0" id="path192" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.15 -0.003,0.273 -0.012,0.394 H 0.223 L 0.238,0.153 h 0.006 c 0.072,0.139 0.24,0.274 0.481,0.274 0.201,0 0.514,-0.12 0.514,-0.619 V -1.061 H 0.974 v 0.839 c 0,0.234 -0.087,0.43 -0.336,0.43 -0.175,0 -0.31,-0.124 -0.355,-0.271 C 0.271,-0.096 0.265,-0.141 0.265,-0.187 V -1.061 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(20.7212,59.4294)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.24.0.0" id="g194" >
+                                    <path gorn="0.3.0.0.2.0.24.0.0.0" id="path196" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c -0.289,0.006 -0.616,-0.045 -0.616,-0.328 0,-0.171 0.114,-0.253 0.249,-0.253 0.19,0 0.31,0.121 0.352,0.244 C -0.006,-0.31 0,-0.28 0,-0.253 Z M 0.039,-0.743 0.018,-0.559 H 0.009 c -0.081,-0.114 -0.238,-0.217 -0.445,-0.217 -0.294,0 -0.445,0.208 -0.445,0.418 0,0.352 0.313,0.544 0.875,0.541 v 0.03 c 0,0.12 -0.033,0.337 -0.33,0.337 -0.136,0 -0.277,-0.042 -0.379,-0.108 l -0.06,0.174 c 0.12,0.078 0.294,0.129 0.478,0.129 0.444,0 0.553,-0.303 0.553,-0.595 v -0.544 c 0,-0.126 0.006,-0.25 0.024,-0.349 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(21.6621,59.2697)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.25.0.0" id="g198" >
+                                    <path gorn="0.3.0.0.2.0.25.0.0.0" id="path200" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.033 0.006,-0.066 0.012,-0.096 0.051,-0.183 0.204,-0.31 0.397,-0.31 0.277,0 0.442,0.226 0.442,0.559 C 0.851,0.445 0.7,0.694 0.418,0.694 0.237,0.694 0.069,0.571 0.015,0.37 0.009,0.34 0,0.304 0,0.262 Z m -0.273,-0.583 c 0.005,0.099 0.011,0.247 0.011,0.376 V 1.551 H 0 V 0.637 h 0.006 c 0.093,0.163 0.262,0.268 0.496,0.268 0.361,0 0.616,-0.301 0.613,-0.742 0,-0.52 -0.327,-0.779 -0.652,-0.779 -0.211,0 -0.379,0.081 -0.487,0.273 h -0.009 l -0.012,-0.24 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.26" id="path202" fill-opacity="1" stroke="none" fill="#787878"  d="m 23.107,60.821 h 0.265 v -2.134 h -0.265 z" style="fill-rule:nonzero;"/>
+                        <g transform="translate(24.7383,59.5554)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.27.0.0" id="g204" >
+                                    <path gorn="0.3.0.0.2.0.27.0.0.0" id="path206" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0.003,0.168 -0.069,0.43 -0.367,0.43 -0.634,0.43 -0.751,0.184 -0.772,0 Z m -0.775,-0.189 c 0.005,-0.358 0.234,-0.505 0.499,-0.505 0.189,0 0.303,0.033 0.402,0.075 l 0.045,-0.19 c -0.093,-0.042 -0.252,-0.09 -0.483,-0.09 -0.448,0 -0.716,0.295 -0.716,0.734 0,0.438 0.258,0.784 0.682,0.784 0.475,0 0.602,-0.417 0.602,-0.685 0,-0.054 -0.006,-0.096 -0.009,-0.123 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(26.4443,60.3942)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.28.0.0" id="g208" >
+                                    <path gorn="0.3.0.0.2.0.28.0.0.0" id="path210" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 H -0.006 L -0.346,-0.184 -0.397,0.018 0.03,0.247 H 0.255 V -1.708 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.29" id="path212" fill-opacity="1" stroke="none" fill="#787878"  d="m 17.084,51.587 h -0.261 v 2.026 h 0.261 z" style="fill-rule:nonzero;"/>
+                        <g transform="translate(17.5601,52.6477)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.30.0.0" id="g214" >
+                                    <path gorn="0.3.0.0.2.0.30.0.0.0" id="path216" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.15 -0.003,0.273 -0.012,0.394 H 0.223 L 0.238,0.153 h 0.006 c 0.072,0.139 0.24,0.274 0.481,0.274 0.201,0 0.514,-0.12 0.514,-0.619 V -1.061 H 0.974 v 0.839 c 0,0.234 -0.087,0.43 -0.336,0.43 -0.175,0 -0.31,-0.124 -0.355,-0.271 C 0.271,-0.096 0.265,-0.141 0.265,-0.187 V -1.061 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(20.3511,53.2941)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.31.0.0" id="g218" >
+                                    <path gorn="0.3.0.0.2.0.31.0.0.0" id="path220" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 H -0.006 L -0.346,-0.184 -0.397,0.018 0.03,0.247 H 0.255 V -1.708 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(16.9819,45.4875)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.32.0.0" id="g222" >
+                                    <path gorn="0.3.0.0.2.0.32.0.0.0" id="path224" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.433 0.234,-0.821 0.646,-0.821 0.415,0 0.65,0.382 0.65,0.842 0,0.403 -0.211,0.824 -0.647,0.824 C 0.216,0.845 0,0.445 0,0 m 1.572,0.033 c 0,-0.697 -0.424,-1.067 -0.941,-1.067 -0.535,0 -0.91,0.415 -0.91,1.028 0,0.643 0.399,1.064 0.941,1.064 0.552,0 0.91,-0.424 0.91,-1.025" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(20.1069,44.8835)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.33.0.0" id="g226" >
+                                    <path gorn="0.3.0.0.2.0.33.0.0.0" id="path228" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.15 0.003,-0.283 0.012,-0.397 h -0.235 l -0.015,0.237 h -0.006 c -0.069,-0.117 -0.222,-0.27 -0.481,-0.27 -0.228,0 -0.502,0.126 -0.502,0.637 v 0.851 h 0.265 V 0.252 c 0,-0.276 0.084,-0.462 0.325,-0.462 0.177,0 0.3,0.123 0.348,0.24 0.015,0.039 0.024,0.087 0.024,0.135 v 0.893 l 0.265,0 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(20.8608,46.3591)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.34.0.0" id="g230" >
+                                    <path gorn="0.3.0.0.2.0.34.0.0.0" id="path232" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V -0.417 H 0.379 V -0.619 H 0 v -0.785 c 0,-0.18 0.051,-0.282 0.198,-0.282 0.07,0 0.121,0.009 0.154,0.018 L 0.364,-1.867 C 0.312,-1.888 0.231,-1.903 0.129,-1.903 c -0.123,0 -0.222,0.039 -0.285,0.111 -0.075,0.079 -0.102,0.208 -0.102,0.379 v 0.794 h -0.226 v 0.202 h 0.226 v 0.348 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(22.6611,46.194)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.35.0.0" id="g234" >
+                                    <path gorn="0.3.0.0.2.0.35.0.0.0" id="path236" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 H -0.006 L -0.346,-0.184 -0.397,0.018 0.03,0.247 H 0.255 V -1.708 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(24.9199,46.5725)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.36.0.0" id="g238" >
+                                    <path gorn="0.3.0.0.2.0.36.0.0.0" id="path240" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c -0.219,-0.294 -0.378,-0.685 -0.378,-1.229 0,-0.535 0.165,-0.92 0.378,-1.221 h -0.208 c -0.188,0.25 -0.393,0.635 -0.393,1.221 0.003,0.592 0.205,0.977 0.393,1.229 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(27.2583,44.5524)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.37.0.0" id="g242" >
+                                    <path gorn="0.3.0.0.2.0.37.0.0.0" id="path244" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c -0.096,-0.048 -0.289,-0.096 -0.535,-0.096 -0.571,0 -1.001,0.361 -1.001,1.025 0,0.634 0.43,1.064 1.058,1.064 0.253,0 0.412,-0.054 0.481,-0.09 L -0.06,1.689 c -0.099,0.049 -0.24,0.085 -0.409,0.085 -0.475,0 -0.79,-0.304 -0.79,-0.836 0,-0.496 0.285,-0.814 0.778,-0.814 0.16,0 0.322,0.033 0.427,0.084 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(27.7031,45.2111)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.38.0.0" id="g246" >
+                                    <path gorn="0.3.0.0.2.0.38.0.0.0" id="path248" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.319 0.183,-0.559 0.442,-0.559 0.252,0 0.442,0.237 0.442,0.565 0,0.246 -0.124,0.559 -0.436,0.559 C 0.135,0.565 0,0.276 0,0 m 1.154,0.015 c 0,-0.538 -0.373,-0.773 -0.724,-0.773 -0.394,0 -0.698,0.289 -0.698,0.749 0,0.487 0.319,0.772 0.722,0.772 0.418,0 0.7,-0.303 0.7,-0.748" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(29.1875,45.5476)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.39.0.0" id="g250" >
+                                    <path gorn="0.3.0.0.2.0.39.0.0.0" id="path252" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.15 -0.003,0.273 -0.012,0.394 H 0.223 L 0.238,0.153 h 0.006 c 0.072,0.139 0.24,0.274 0.481,0.274 0.201,0 0.514,-0.12 0.514,-0.619 V -1.061 H 0.974 v 0.839 c 0,0.234 -0.087,0.43 -0.336,0.43 -0.175,0 -0.31,-0.124 -0.355,-0.271 C 0.271,-0.096 0.265,-0.141 0.265,-0.187 V -1.061 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(31.1592,46.3591)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.40.0.0" id="g254" >
+                                    <path gorn="0.3.0.0.2.0.40.0.0.0" id="path256" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V -0.417 H 0.379 V -0.619 H 0 v -0.785 c 0,-0.18 0.051,-0.282 0.198,-0.282 0.07,0 0.121,0.009 0.154,0.018 L 0.364,-1.867 C 0.312,-1.888 0.231,-1.903 0.129,-1.903 c -0.123,0 -0.222,0.039 -0.285,0.111 -0.075,0.079 -0.102,0.208 -0.102,0.379 v 0.794 h -0.226 v 0.202 h 0.226 v 0.348 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(31.8335,45.4875)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.41.0.0" id="g258" >
+                                    <path gorn="0.3.0.0.2.0.41.0.0.0" id="path260" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.171 -0.003,0.319 -0.012,0.454 H 0.22 L 0.229,0.168 h 0.012 c 0.066,0.196 0.225,0.319 0.403,0.319 0.029,0 0.05,-0.003 0.075,-0.009 V 0.229 C 0.691,0.234 0.665,0.237 0.628,0.237 0.442,0.237 0.31,0.096 0.274,-0.102 0.268,-0.138 0.262,-0.18 0.262,-0.226 v -0.775 l -0.262,0 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(32.9473,45.2111)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.42.0.0" id="g262" >
+                                    <path gorn="0.3.0.0.2.0.42.0.0.0" id="path264" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.319 0.183,-0.559 0.442,-0.559 0.252,0 0.442,0.237 0.442,0.565 0,0.246 -0.124,0.559 -0.436,0.559 C 0.135,0.565 0,0.276 0,0 m 1.154,0.015 c 0,-0.538 -0.373,-0.773 -0.724,-0.773 -0.394,0 -0.698,0.289 -0.698,0.749 0,0.487 0.319,0.772 0.722,0.772 0.418,0 0.7,-0.303 0.7,-0.748" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.43" id="path266" fill-opacity="1" stroke="none" fill="#787878"  d="m 34.432,46.621 h 0.265 v -2.134 h -0.265 z" style="fill-rule:nonzero;"/>
+                        <path gorn="0.3.0.0.2.0.44" id="path268" fill-opacity="1" stroke="none" fill="#787878"  d="m 35.14,46.621 h 0.265 V 44.487 H 35.14 Z" style="fill-rule:nonzero;"/>
+                        <g transform="translate(36.7705,45.3552)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.45.0.0" id="g270" >
+                                    <path gorn="0.3.0.0.2.0.45.0.0.0" id="path272" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0.003,0.168 -0.069,0.43 -0.367,0.43 -0.634,0.43 -0.751,0.184 -0.772,0 Z m -0.775,-0.189 c 0.005,-0.358 0.234,-0.505 0.499,-0.505 0.189,0 0.303,0.033 0.402,0.075 l 0.045,-0.19 c -0.093,-0.042 -0.252,-0.09 -0.483,-0.09 -0.448,0 -0.716,0.295 -0.716,0.734 0,0.438 0.258,0.784 0.682,0.784 0.475,0 0.602,-0.417 0.602,-0.685 0,-0.054 -0.006,-0.096 -0.009,-0.123 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(38.3428,45.3493)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.46.0.0" id="g274" >
+                                    <path gorn="0.3.0.0.2.0.46.0.0.0" id="path276" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,0.033 -0.003,0.078 -0.012,0.111 -0.039,0.168 -0.183,0.307 -0.382,0.307 -0.273,0 -0.436,-0.241 -0.436,-0.563 0,-0.294 0.144,-0.538 0.43,-0.538 0.177,0 0.34,0.118 0.388,0.316 C -0.003,-0.331 0,-0.294 0,-0.252 Z m 0.265,1.271 v -1.758 c 0,-0.129 0.003,-0.277 0.011,-0.376 H 0.039 L 0.027,-0.61 H 0.021 c -0.081,-0.162 -0.258,-0.286 -0.496,-0.286 -0.352,0 -0.622,0.298 -0.622,0.74 -0.003,0.484 0.297,0.781 0.652,0.781 0.222,0 0.373,-0.105 0.439,-0.222 H 0 v 0.868 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(40.7363,45.4362)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.47.0.0" id="g278" >
+                                    <path gorn="0.3.0.0.2.0.47.0.0.0" id="path280" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 H -0.788 V -0.73 H 0.09 V -0.95 H -1.049 V 1.076 H 0.045 V 0.857 h -0.833 v -0.64 l 0.788,0 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(41.1543,45.5476)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.48.0.0" id="g282" >
+                                    <path gorn="0.3.0.0.2.0.48.0.0.0" id="path284" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.15 -0.003,0.273 -0.012,0.394 H 0.223 L 0.238,0.153 h 0.006 c 0.072,0.139 0.24,0.274 0.481,0.274 0.201,0 0.514,-0.12 0.514,-0.619 V -1.061 H 0.974 v 0.839 c 0,0.234 -0.087,0.43 -0.336,0.43 -0.175,0 -0.31,-0.124 -0.355,-0.271 C 0.271,-0.096 0.265,-0.141 0.265,-0.187 V -1.061 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(43.5859,45.2292)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.49.0.0" id="g286" >
+                                    <path gorn="0.3.0.0.2.0.49.0.0.0" id="path288" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c -0.289,0.006 -0.616,-0.045 -0.616,-0.328 0,-0.171 0.114,-0.253 0.249,-0.253 0.19,0 0.31,0.121 0.352,0.244 C -0.006,-0.31 0,-0.28 0,-0.253 Z M 0.039,-0.743 0.018,-0.559 H 0.009 c -0.081,-0.114 -0.238,-0.217 -0.445,-0.217 -0.294,0 -0.445,0.208 -0.445,0.418 0,0.352 0.313,0.544 0.875,0.541 v 0.03 c 0,0.12 -0.033,0.337 -0.33,0.337 -0.136,0 -0.277,-0.042 -0.379,-0.108 l -0.06,0.174 c 0.12,0.078 0.294,0.129 0.478,0.129 0.444,0 0.553,-0.303 0.553,-0.595 v -0.544 c 0,-0.126 0.006,-0.25 0.024,-0.349 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(44.5269,45.0695)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.50.0.0" id="g290" >
+                                    <path gorn="0.3.0.0.2.0.50.0.0.0" id="path292" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.033 0.006,-0.066 0.012,-0.096 0.051,-0.183 0.204,-0.31 0.397,-0.31 0.277,0 0.442,0.226 0.442,0.559 C 0.851,0.445 0.7,0.694 0.418,0.694 0.237,0.694 0.069,0.571 0.015,0.37 0.009,0.34 0,0.304 0,0.262 Z m -0.273,-0.583 c 0.005,0.099 0.011,0.247 0.011,0.376 V 1.551 H 0 V 0.637 h 0.006 c 0.093,0.163 0.262,0.268 0.496,0.268 0.361,0 0.616,-0.301 0.613,-0.742 0,-0.52 -0.327,-0.779 -0.652,-0.779 -0.211,0 -0.379,0.081 -0.487,0.273 h -0.009 l -0.012,-0.24 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.51" id="path294" fill-opacity="1" stroke="none" fill="#787878"  d="m 45.972,46.621 h 0.265 v -2.134 h -0.265 z" style="fill-rule:nonzero;"/>
+                        <g transform="translate(47.603,45.3552)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.52.0.0" id="g296" >
+                                    <path gorn="0.3.0.0.2.0.52.0.0.0" id="path298" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0.003,0.168 -0.069,0.43 -0.367,0.43 -0.634,0.43 -0.751,0.184 -0.772,0 Z m -0.775,-0.189 c 0.005,-0.358 0.234,-0.505 0.499,-0.505 0.189,0 0.303,0.033 0.402,0.075 l 0.045,-0.19 c -0.093,-0.042 -0.252,-0.09 -0.483,-0.09 -0.448,0 -0.716,0.295 -0.716,0.734 0,0.438 0.258,0.784 0.682,0.784 0.475,0 0.602,-0.417 0.602,-0.685 0,-0.054 -0.006,-0.096 -0.009,-0.123 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(49.3091,46.194)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.53.0.0" id="g300" >
+                                    <path gorn="0.3.0.0.2.0.53.0.0.0" id="path302" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 H -0.006 L -0.346,-0.184 -0.397,0.018 0.03,0.247 H 0.255 V -1.708 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(50.8345,44.1228)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.54.0.0" id="g304" >
+                                    <path gorn="0.3.0.0.2.0.54.0.0.0" id="path306" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0.213,0.298 0.379,0.688 0.379,1.229 0.379,1.768 0.216,2.152 0,2.45 H 0.205 C 0.397,2.204 0.598,1.819 0.598,1.227 0.598,0.637 0.397,0.255 0.205,0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(16.9668,38.3542)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.55.0.0" id="g308" >
+                                    <path gorn="0.3.0.0.2.0.55.0.0.0" id="path310" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.508 0.157,-0.796 0.397,-0.796 0.27,0 0.4,0.315 0.4,0.814 C 0.797,0.499 0.673,0.815 0.4,0.815 0.168,0.815 0,0.532 0,0 m 1.062,0.03 c 0,-0.664 -0.247,-1.031 -0.68,-1.031 -0.382,0 -0.64,0.358 -0.646,1.004 0,0.656 0.282,1.016 0.679,1.016 0.412,0 0.647,-0.367 0.647,-0.989" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(18.8066,37.3864)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.56.0.0" id="g312" >
+                                    <path gorn="0.3.0.0.2.0.56.0.0.0" id="path314" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 -0.661,2.026 h 0.282 L -0.063,1.028 C 0.024,0.754 0.099,0.508 0.153,0.271 h 0.006 c 0.057,0.234 0.142,0.49 0.232,0.754 l 0.342,1.001 h 0.28 L 0.289,0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(16.9668,31.2541)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.57.0.0" id="g316" >
+                                    <path gorn="0.3.0.0.2.0.57.0.0.0" id="path318" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.508 0.157,-0.797 0.397,-0.797 0.27,0 0.4,0.317 0.4,0.816 0,0.48 -0.124,0.795 -0.397,0.795 C 0.168,0.814 0,0.532 0,0 m 1.062,0.03 c 0,-0.664 -0.247,-1.031 -0.68,-1.031 -0.382,0 -0.64,0.357 -0.646,1.004 0,0.655 0.282,1.017 0.679,1.017 0.412,0 0.647,-0.368 0.647,-0.99" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(18.8066,30.2863)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.58.0.0" id="g320" >
+                                    <path gorn="0.3.0.0.2.0.58.0.0.0" id="path322" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 -0.661,2.026 h 0.282 L -0.063,1.028 C 0.024,0.755 0.099,0.508 0.153,0.271 h 0.006 c 0.057,0.234 0.142,0.49 0.232,0.754 l 0.342,1.001 h 0.28 L 0.289,0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(16.9819,24.1877)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.59.0.0" id="g324" >
+                                    <path gorn="0.3.0.0.2.0.59.0.0.0" id="path326" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.433 0.234,-0.82 0.646,-0.82 0.415,0 0.65,0.382 0.65,0.841 0,0.403 -0.211,0.824 -0.647,0.824 C 0.216,0.845 0,0.445 0,0 m 1.572,0.033 c 0,-0.697 -0.424,-1.067 -0.941,-1.067 -0.535,0 -0.91,0.415 -0.91,1.028 0,0.644 0.399,1.065 0.941,1.065 0.552,0 0.91,-0.424 0.91,-1.026" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(20.1069,23.5832)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.60.0.0" id="g328" >
+                                    <path gorn="0.3.0.0.2.0.60.0.0.0" id="path330" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.15 0.003,-0.282 0.012,-0.396 h -0.235 l -0.015,0.237 h -0.006 c -0.069,-0.117 -0.222,-0.271 -0.481,-0.271 -0.228,0 -0.502,0.126 -0.502,0.638 v 0.851 h 0.265 V 0.253 c 0,-0.276 0.084,-0.463 0.325,-0.463 0.177,0 0.3,0.123 0.348,0.24 0.015,0.039 0.024,0.087 0.024,0.136 V 1.059 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(20.8608,25.0598)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.61.0.0" id="g332" >
+                                    <path gorn="0.3.0.0.2.0.61.0.0.0" id="path334" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V -0.418 H 0.379 V -0.619 H 0 v -0.785 c 0,-0.181 0.051,-0.283 0.198,-0.283 0.07,0 0.121,0.009 0.154,0.018 L 0.364,-1.867 C 0.312,-1.888 0.231,-1.903 0.129,-1.903 c -0.123,0 -0.222,0.039 -0.285,0.111 -0.075,0.078 -0.102,0.207 -0.102,0.379 v 0.794 h -0.226 v 0.201 h 0.226 v 0.349 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(22.6611,24.8938)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.62.0.0" id="g336" >
+                                    <path gorn="0.3.0.0.2.0.62.0.0.0" id="path338" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 H -0.006 L -0.346,-0.183 -0.397,0.019 0.03,0.247 H 0.255 V -1.707 L 0,-1.707 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(23.626,23.1867)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.63.0.0" id="g340" >
+                                    <path gorn="0.3.0.0.2.0.63.0.0.0" id="path342" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 v 0.162 l 0.208,0.201 c 0.499,0.476 0.724,0.728 0.727,1.023 0,0.198 -0.096,0.382 -0.388,0.382 -0.177,0 -0.324,-0.09 -0.415,-0.165 L 0.048,1.788 C 0.184,1.902 0.376,1.987 0.601,1.987 1.022,1.987 1.199,1.698 1.199,1.419 1.199,1.058 0.938,0.767 0.526,0.37 L 0.37,0.226 V 0.22 H 1.248 V 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(26.459,25.2727)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.64.0.0" id="g344" >
+                                    <path gorn="0.3.0.0.2.0.64.0.0.0" id="path346" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c -0.219,-0.294 -0.378,-0.686 -0.378,-1.229 0,-0.536 0.165,-0.92 0.378,-1.22 h -0.208 c -0.188,0.249 -0.393,0.634 -0.393,1.22 0.003,0.592 0.205,0.977 0.393,1.229 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(28.7974,23.2531)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.65.0.0" id="g348" >
+                                    <path gorn="0.3.0.0.2.0.65.0.0.0" id="path350" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c -0.096,-0.049 -0.289,-0.097 -0.535,-0.097 -0.571,0 -1.001,0.362 -1.001,1.026 0,0.633 0.43,1.064 1.058,1.064 0.253,0 0.412,-0.055 0.481,-0.091 L -0.06,1.689 c -0.099,0.048 -0.24,0.084 -0.409,0.084 -0.475,0 -0.79,-0.303 -0.79,-0.836 0,-0.496 0.285,-0.814 0.778,-0.814 0.16,0 0.322,0.033 0.427,0.084 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(29.2422,23.9113)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.66.0.0" id="g352" >
+                                    <path gorn="0.3.0.0.2.0.66.0.0.0" id="path354" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.318 0.183,-0.56 0.442,-0.56 0.252,0 0.442,0.238 0.442,0.566 0,0.246 -0.124,0.559 -0.436,0.559 C 0.135,0.565 0,0.276 0,0 m 1.154,0.015 c 0,-0.538 -0.373,-0.773 -0.724,-0.773 -0.394,0 -0.698,0.289 -0.698,0.749 0,0.487 0.319,0.773 0.722,0.773 0.418,0 0.7,-0.304 0.7,-0.749" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(30.7266,24.2482)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.67.0.0" id="g356" >
+                                    <path gorn="0.3.0.0.2.0.67.0.0.0" id="path358" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.149 -0.003,0.273 -0.012,0.394 H 0.223 L 0.238,0.153 h 0.006 c 0.072,0.138 0.24,0.274 0.481,0.274 0.201,0 0.514,-0.12 0.514,-0.619 v -0.87 H 0.974 v 0.839 c 0,0.235 -0.087,0.43 -0.336,0.43 -0.175,0 -0.31,-0.123 -0.355,-0.27 C 0.271,-0.097 0.265,-0.142 0.265,-0.187 V -1.062 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(32.6982,25.0598)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.68.0.0" id="g360" >
+                                    <path gorn="0.3.0.0.2.0.68.0.0.0" id="path362" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V -0.418 H 0.379 V -0.619 H 0 v -0.785 c 0,-0.181 0.051,-0.283 0.198,-0.283 0.07,0 0.121,0.009 0.154,0.018 L 0.364,-1.867 C 0.312,-1.888 0.231,-1.903 0.129,-1.903 c -0.123,0 -0.222,0.039 -0.285,0.111 -0.075,0.078 -0.102,0.207 -0.102,0.379 v 0.794 h -0.226 v 0.201 h 0.226 v 0.349 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(33.3726,24.1877)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.69.0.0" id="g364" >
+                                    <path gorn="0.3.0.0.2.0.69.0.0.0" id="path366" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.171 -0.003,0.318 -0.012,0.454 H 0.22 L 0.229,0.168 h 0.012 c 0.066,0.195 0.225,0.319 0.403,0.319 0.029,0 0.05,-0.003 0.075,-0.009 V 0.229 C 0.691,0.234 0.665,0.237 0.628,0.237 0.442,0.237 0.31,0.097 0.274,-0.103 0.268,-0.139 0.262,-0.181 0.262,-0.226 v -0.775 l -0.262,0 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(34.4863,23.9113)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.70.0.0" id="g368" >
+                                    <path gorn="0.3.0.0.2.0.70.0.0.0" id="path370" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.318 0.183,-0.56 0.442,-0.56 0.252,0 0.442,0.238 0.442,0.566 0,0.246 -0.124,0.559 -0.436,0.559 C 0.135,0.565 0,0.276 0,0 m 1.154,0.015 c 0,-0.538 -0.373,-0.773 -0.724,-0.773 -0.394,0 -0.698,0.289 -0.698,0.749 0,0.487 0.319,0.773 0.722,0.773 0.418,0 0.7,-0.304 0.7,-0.749" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.71" id="path372" fill-opacity="1" stroke="none" fill="#787878"  d="m 35.971,25.321 h 0.265 v -2.134 h -0.265 z" style="fill-rule:nonzero;"/>
+                        <path gorn="0.3.0.0.2.0.72" id="path374" fill-opacity="1" stroke="none" fill="#787878"  d="m 36.679,25.321 h 0.265 v -2.134 h -0.265 z" style="fill-rule:nonzero;"/>
+                        <g transform="translate(38.3096,24.0559)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.73.0.0" id="g376" >
+                                    <path gorn="0.3.0.0.2.0.73.0.0.0" id="path378" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0.003,0.168 -0.069,0.43 -0.367,0.43 -0.634,0.43 -0.751,0.183 -0.772,0 Z m -0.775,-0.189 c 0.005,-0.359 0.234,-0.505 0.499,-0.505 0.189,0 0.303,0.032 0.402,0.074 l 0.045,-0.189 c -0.093,-0.043 -0.252,-0.09 -0.483,-0.09 -0.448,0 -0.716,0.295 -0.716,0.733 0,0.439 0.258,0.785 0.682,0.785 0.475,0 0.602,-0.418 0.602,-0.685 0,-0.055 -0.006,-0.097 -0.009,-0.123 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(39.8818,24.049)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.74.0.0" id="g380" >
+                                    <path gorn="0.3.0.0.2.0.74.0.0.0" id="path382" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,0.033 -0.003,0.078 -0.012,0.111 -0.039,0.169 -0.183,0.307 -0.382,0.307 -0.273,0 -0.436,-0.24 -0.436,-0.562 0,-0.294 0.144,-0.538 0.43,-0.538 0.177,0 0.34,0.118 0.388,0.316 C -0.003,-0.33 0,-0.294 0,-0.252 Z m 0.265,1.271 v -1.757 c 0,-0.13 0.003,-0.277 0.011,-0.376 H 0.039 L 0.027,-0.609 H 0.021 c -0.081,-0.163 -0.258,-0.287 -0.496,-0.287 -0.352,0 -0.622,0.298 -0.622,0.74 -0.003,0.484 0.297,0.782 0.652,0.782 0.222,0 0.373,-0.105 0.439,-0.223 H 0 v 0.868 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(42.2754,24.1369)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.75.0.0" id="g384" >
+                                    <path gorn="0.3.0.0.2.0.75.0.0.0" id="path386" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 H -0.788 V -0.73 H 0.09 v -0.22 h -1.139 v 2.026 h 1.094 v -0.22 h -0.833 v -0.64 l 0.788,0 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(42.6934,24.2482)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.76.0.0" id="g388" >
+                                    <path gorn="0.3.0.0.2.0.76.0.0.0" id="path390" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.149 -0.003,0.273 -0.012,0.394 H 0.223 L 0.238,0.153 h 0.006 c 0.072,0.138 0.24,0.274 0.481,0.274 0.201,0 0.514,-0.12 0.514,-0.619 v -0.87 H 0.974 v 0.839 c 0,0.235 -0.087,0.43 -0.336,0.43 -0.175,0 -0.31,-0.123 -0.355,-0.27 C 0.271,-0.097 0.265,-0.142 0.265,-0.187 V -1.062 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(45.125,23.9289)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.77.0.0" id="g392" >
+                                    <path gorn="0.3.0.0.2.0.77.0.0.0" id="path394" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c -0.289,0.006 -0.616,-0.045 -0.616,-0.327 0,-0.172 0.114,-0.253 0.249,-0.253 0.19,0 0.31,0.12 0.352,0.244 C -0.006,-0.31 0,-0.279 0,-0.252 Z M 0.039,-0.742 0.018,-0.559 H 0.009 c -0.081,-0.114 -0.238,-0.216 -0.445,-0.216 -0.294,0 -0.445,0.208 -0.445,0.418 0,0.351 0.313,0.544 0.875,0.541 v 0.03 c 0,0.12 -0.033,0.337 -0.33,0.337 -0.136,0 -0.277,-0.042 -0.379,-0.109 l -0.06,0.174 c 0.12,0.078 0.294,0.13 0.478,0.13 0.444,0 0.553,-0.304 0.553,-0.596 v -0.544 c 0,-0.126 0.006,-0.249 0.024,-0.348 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(46.0659,23.7697)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.78.0.0" id="g396" >
+                                    <path gorn="0.3.0.0.2.0.78.0.0.0" id="path398" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.033 0.006,-0.066 0.012,-0.096 0.051,-0.183 0.204,-0.309 0.397,-0.309 0.277,0 0.442,0.224 0.442,0.558 C 0.851,0.445 0.7,0.694 0.418,0.694 0.237,0.694 0.069,0.571 0.015,0.37 0.009,0.34 0,0.304 0,0.262 Z m -0.273,-0.583 c 0.005,0.1 0.011,0.246 0.011,0.376 V 1.551 H 0 V 0.638 h 0.006 c 0.093,0.162 0.262,0.267 0.496,0.267 0.361,0 0.616,-0.301 0.613,-0.743 0,-0.519 -0.327,-0.778 -0.652,-0.778 -0.211,0 -0.379,0.081 -0.487,0.273 h -0.009 l -0.012,-0.24 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.79" id="path400" fill-opacity="1" stroke="none" fill="#787878"  d="m 47.511,25.321 h 0.265 v -2.134 h -0.265 z" style="fill-rule:nonzero;"/>
+                        <g transform="translate(49.1421,24.0559)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.80.0.0" id="g402" >
+                                    <path gorn="0.3.0.0.2.0.80.0.0.0" id="path404" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0.003,0.168 -0.069,0.43 -0.367,0.43 -0.634,0.43 -0.751,0.183 -0.772,0 Z m -0.775,-0.189 c 0.005,-0.359 0.234,-0.505 0.499,-0.505 0.189,0 0.303,0.032 0.402,0.074 l 0.045,-0.189 c -0.093,-0.043 -0.252,-0.09 -0.483,-0.09 -0.448,0 -0.716,0.295 -0.716,0.733 0,0.439 0.258,0.785 0.682,0.785 0.475,0 0.602,-0.418 0.602,-0.685 0,-0.055 -0.006,-0.097 -0.009,-0.123 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(50.8481,24.8938)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.81.0.0" id="g406" >
+                                    <path gorn="0.3.0.0.2.0.81.0.0.0" id="path408" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 H -0.006 L -0.346,-0.183 -0.397,0.019 0.03,0.247 H 0.255 V -1.707 L 0,-1.707 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(52.3735,22.8234)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.82.0.0" id="g410" >
+                                    <path gorn="0.3.0.0.2.0.82.0.0.0" id="path412" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0.213,0.297 0.379,0.687 0.379,1.229 0.379,1.767 0.216,2.151 0,2.449 H 0.205 C 0.397,2.203 0.598,1.818 0.598,1.226 0.598,0.637 0.397,0.255 0.205,0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.83" id="path414" fill-opacity="1" stroke="none" fill="#787878"  d="m 17.084,16.087 h -0.261 v 2.026 h 0.261 z" style="fill-rule:nonzero;"/>
+                        <g transform="translate(17.5601,17.1486)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.84.0.0" id="g416" >
+                                    <path gorn="0.3.0.0.2.0.84.0.0.0" id="path418" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.149 -0.003,0.273 -0.012,0.394 H 0.223 L 0.238,0.153 h 0.006 c 0.072,0.138 0.24,0.274 0.481,0.274 0.201,0 0.514,-0.12 0.514,-0.619 v -0.87 H 0.974 v 0.839 c 0,0.235 -0.087,0.43 -0.336,0.43 -0.175,0 -0.31,-0.123 -0.355,-0.27 C 0.271,-0.097 0.265,-0.142 0.265,-0.187 V -1.062 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(19.7769,16.0871)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.85.0.0" id="g420" >
+                                    <path gorn="0.3.0.0.2.0.85.0.0.0" id="path422" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 v 0.162 l 0.208,0.201 c 0.499,0.476 0.724,0.728 0.727,1.023 0,0.198 -0.096,0.382 -0.388,0.382 -0.177,0 -0.324,-0.09 -0.415,-0.165 L 0.048,1.788 C 0.184,1.902 0.376,1.987 0.601,1.987 1.022,1.987 1.199,1.698 1.199,1.419 1.199,1.058 0.938,0.767 0.526,0.37 L 0.37,0.226 V 0.22 H 1.248 V 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(17.5864,10.5861)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.86.0.0" id="g424" >
+                                    <path gorn="0.3.0.0.2.0.86.0.0.0" id="path426" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 v -0.707 h 0.679 v -0.18 H 0 V -1.6 h -0.192 v 0.713 h -0.68 v 0.18 h 0.68 V 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(19.5835,8.9865)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.87.0.0" id="g428" >
+                                    <path gorn="0.3.0.0.2.0.87.0.0.0" id="path430" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 -0.661,2.026 h 0.282 L -0.063,1.028 C 0.024,0.755 0.099,0.508 0.153,0.271 h 0.006 c 0.057,0.234 0.142,0.49 0.232,0.754 l 0.342,1.001 h 0.28 L 0.289,0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(22.52,9.8762)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.88.0.0" id="g432" >
+                                    <path gorn="0.3.0.0.2.0.88.0.0.0" id="path434" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C -0.015,0.282 -0.033,0.622 -0.03,0.875 H -0.039 C -0.108,0.638 -0.192,0.385 -0.295,0.105 L -0.652,-0.878 H -0.851 L -1.179,0.087 C -1.275,0.373 -1.356,0.635 -1.413,0.875 H -1.419 C -1.425,0.622 -1.44,0.282 -1.458,-0.021 L -1.512,-0.89 h -0.25 l 0.141,2.027 h 0.334 l 0.346,-0.981 c 0.084,-0.249 0.153,-0.471 0.204,-0.682 h 0.009 c 0.051,0.205 0.124,0.427 0.214,0.682 l 0.361,0.981 H 0.18 L 0.307,-0.89 H 0.051 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(23.396,9.7111)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.89.0.0" id="g436" >
+                                    <path gorn="0.3.0.0.2.0.89.0.0.0" id="path438" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.318 0.183,-0.56 0.442,-0.56 0.252,0 0.442,0.238 0.442,0.566 0,0.246 -0.124,0.559 -0.436,0.559 C 0.135,0.565 0,0.276 0,0 m 1.154,0.015 c 0,-0.538 -0.373,-0.773 -0.724,-0.773 -0.394,0 -0.698,0.289 -0.698,0.749 0,0.487 0.319,0.773 0.722,0.773 0.418,0 0.7,-0.304 0.7,-0.749" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(25.1992,10.8596)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.90.0.0" id="g440" >
+                                    <path gorn="0.3.0.0.2.0.90.0.0.0" id="path442" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V -0.418 H 0.379 V -0.619 H 0 v -0.785 c 0,-0.18 0.051,-0.283 0.198,-0.283 0.07,0 0.121,0.009 0.154,0.018 L 0.364,-1.867 C 0.312,-1.888 0.231,-1.903 0.129,-1.903 c -0.123,0 -0.222,0.039 -0.285,0.111 -0.075,0.078 -0.102,0.208 -0.102,0.379 v 0.794 h -0.226 v 0.201 h 0.226 v 0.349 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(26.0181,9.7111)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.91.0.0" id="g444" >
+                                    <path gorn="0.3.0.0.2.0.91.0.0.0" id="path446" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.318 0.183,-0.56 0.442,-0.56 0.252,0 0.442,0.238 0.442,0.566 0,0.246 -0.124,0.559 -0.436,0.559 C 0.135,0.565 0,0.276 0,0 m 1.154,0.015 c 0,-0.538 -0.373,-0.773 -0.724,-0.773 -0.394,0 -0.698,0.289 -0.698,0.749 0,0.487 0.319,0.773 0.722,0.773 0.418,0 0.7,-0.304 0.7,-0.749" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(27.5024,9.9875)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.92.0.0" id="g448" >
+                                    <path gorn="0.3.0.0.2.0.92.0.0.0" id="path450" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.171 -0.003,0.318 -0.012,0.454 H 0.22 L 0.229,0.168 h 0.012 c 0.066,0.195 0.225,0.319 0.403,0.319 0.029,0 0.05,-0.003 0.075,-0.009 V 0.229 C 0.691,0.234 0.665,0.237 0.628,0.237 0.442,0.237 0.31,0.097 0.274,-0.103 0.268,-0.139 0.262,-0.181 0.262,-0.226 v -0.775 l -0.262,0 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(131.5264,60.34)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.93.0.0" id="g452" >
+                                    <path gorn="0.3.0.0.2.0.93.0.0.0" id="path454" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 v -0.707 h 0.679 v -0.18 H 0 v -0.712 h -0.192 v 0.712 h -0.68 v 0.18 h 0.68 V 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(133.5234,58.7409)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.94.0.0" id="g456" >
+                                    <path gorn="0.3.0.0.2.0.94.0.0.0" id="path458" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 -0.661,2.026 h 0.282 L -0.062,1.028 C 0.023,0.754 0.1,0.508 0.153,0.271 h 0.006 c 0.058,0.234 0.142,0.49 0.232,0.754 L 0.733,2.026 H 1.014 L 0.289,0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.95" id="path460" fill-opacity="1" stroke="none" fill="#787878"  d="m 130.427,51.641 h -0.261 v 2.026 h 0.261 z" style="fill-rule:nonzero;"/>
+                        <g transform="translate(130.9023,52.7023)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.96.0.0" id="g462" >
+                                    <path gorn="0.3.0.0.2.0.96.0.0.0" id="path464" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.15 -0.002,0.273 -0.012,0.394 H 0.223 L 0.238,0.153 h 0.006 c 0.072,0.139 0.24,0.274 0.481,0.274 0.202,0 0.514,-0.12 0.514,-0.619 V -1.061 H 0.975 v 0.839 c 0,0.234 -0.087,0.43 -0.336,0.43 C 0.463,0.208 0.328,0.084 0.283,-0.063 0.271,-0.096 0.266,-0.141 0.266,-0.187 V -1.061 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(133.9375,52.3806)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.97.0.0" id="g466" >
+                                    <path gorn="0.3.0.0.2.0.97.0.0.0" id="path468" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V 0.652 C 0,0.755 0.003,0.857 0.009,0.959 H 0 C -0.061,0.845 -0.108,0.761 -0.162,0.67 L -0.641,0.006 V 0 Z m 0,-0.739 v 0.532 h -0.908 v 0.174 l 0.872,1.248 H 0.249 V 0 H 0.523 V -0.207 H 0.249 v -0.532 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(96.1436,45.5417)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.98.0.0" id="g470" >
+                                    <path gorn="0.3.0.0.2.0.98.0.0.0" id="path472" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.433 0.234,-0.82 0.646,-0.82 0.416,0 0.65,0.382 0.65,0.841 0,0.403 -0.211,0.824 -0.647,0.824 C 0.216,0.845 0,0.445 0,0 m 1.572,0.033 c 0,-0.697 -0.424,-1.067 -0.94,-1.067 -0.535,0 -0.911,0.415 -0.911,1.028 0,0.644 0.399,1.065 0.94,1.065 0.553,0 0.911,-0.425 0.911,-1.026" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(99.2686,44.9372)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.99.0.0" id="g474" >
+                                    <path gorn="0.3.0.0.2.0.99.0.0.0" id="path476" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.15 0.003,-0.282 0.012,-0.396 h -0.235 l -0.014,0.237 h -0.006 c -0.07,-0.117 -0.223,-0.271 -0.482,-0.271 -0.228,0 -0.502,0.126 -0.502,0.638 v 0.851 h 0.265 V 0.253 c 0,-0.276 0.084,-0.463 0.324,-0.463 0.178,0 0.301,0.123 0.35,0.24 0.014,0.039 0.023,0.087 0.023,0.136 V 1.059 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(100.0225,46.4138)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.100.0.0" id="g478" >
+                                    <path gorn="0.3.0.0.2.0.100.0.0.0" id="path480" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V -0.418 H 0.379 V -0.619 H 0 v -0.785 c 0,-0.18 0.052,-0.283 0.198,-0.283 0.07,0 0.121,0.009 0.154,0.018 L 0.364,-1.867 C 0.312,-1.888 0.231,-1.903 0.13,-1.903 c -0.124,0 -0.223,0.039 -0.286,0.111 -0.075,0.078 -0.103,0.208 -0.103,0.379 v 0.794 h -0.224 v 0.201 h 0.224 v 0.349 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(102.0664,45.28)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.101.0.0" id="g482" >
+                                    <path gorn="0.3.0.0.2.0.101.0.0.0" id="path484" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V 0.652 C 0,0.755 0.003,0.856 0.009,0.959 H 0 C -0.061,0.845 -0.108,0.761 -0.162,0.671 L -0.641,0.006 V 0 Z m 0,-0.739 v 0.532 h -0.908 v 0.174 l 0.872,1.248 H 0.249 V 0 H 0.523 V -0.207 H 0.249 v -0.532 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(104.082,46.6267)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.102.0.0" id="g486" >
+                                    <path gorn="0.3.0.0.2.0.102.0.0.0" id="path488" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c -0.22,-0.294 -0.379,-0.686 -0.379,-1.229 0,-0.536 0.165,-0.92 0.379,-1.22 h -0.208 c -0.188,0.249 -0.394,0.634 -0.394,1.22 0.003,0.592 0.206,0.977 0.394,1.229 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(106.4199,44.6071)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.103.0.0" id="g490" >
+                                    <path gorn="0.3.0.0.2.0.103.0.0.0" id="path492" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c -0.096,-0.049 -0.289,-0.097 -0.535,-0.097 -0.57,0 -1,0.362 -1,1.026 0,0.633 0.43,1.064 1.057,1.064 0.253,0 0.412,-0.055 0.482,-0.091 L -0.061,1.689 c -0.098,0.048 -0.24,0.084 -0.408,0.084 -0.474,0 -0.791,-0.303 -0.791,-0.836 0,-0.496 0.286,-0.814 0.78,-0.814 0.159,0 0.321,0.033 0.426,0.084 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(106.8652,45.2653)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.104.0.0" id="g494" >
+                                    <path gorn="0.3.0.0.2.0.104.0.0.0" id="path496" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.318 0.183,-0.56 0.441,-0.56 0.252,0 0.442,0.238 0.442,0.566 0,0.246 -0.123,0.559 -0.436,0.559 C 0.135,0.565 0,0.276 0,0 m 1.154,0.015 c 0,-0.538 -0.373,-0.773 -0.724,-0.773 -0.395,0 -0.698,0.289 -0.698,0.749 0,0.487 0.319,0.773 0.721,0.773 0.418,0 0.701,-0.304 0.701,-0.749" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(108.3496,45.6022)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.105.0.0" id="g498" >
+                                    <path gorn="0.3.0.0.2.0.105.0.0.0" id="path500" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.149 -0.004,0.273 -0.012,0.394 H 0.223 L 0.237,0.153 h 0.006 c 0.072,0.138 0.241,0.274 0.482,0.274 0.201,0 0.513,-0.12 0.513,-0.619 v -0.87 H 0.974 v 0.839 c 0,0.235 -0.087,0.43 -0.337,0.43 -0.174,0 -0.31,-0.123 -0.355,-0.27 C 0.27,-0.097 0.264,-0.142 0.264,-0.187 V -1.062 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(110.3203,46.4138)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.106.0.0" id="g502" >
+                                    <path gorn="0.3.0.0.2.0.106.0.0.0" id="path504" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V -0.418 H 0.379 V -0.619 H 0 v -0.785 c 0,-0.18 0.052,-0.283 0.199,-0.283 0.069,0 0.12,0.009 0.153,0.018 L 0.364,-1.867 C 0.312,-1.888 0.232,-1.903 0.13,-1.903 c -0.124,0 -0.223,0.039 -0.286,0.111 -0.074,0.078 -0.102,0.208 -0.102,0.379 v 0.794 h -0.225 v 0.201 h 0.225 v 0.349 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(110.9951,45.5417)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.107.0.0" id="g506" >
+                                    <path gorn="0.3.0.0.2.0.107.0.0.0" id="path508" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.171 -0.003,0.318 -0.012,0.454 H 0.22 L 0.229,0.168 h 0.012 c 0.066,0.195 0.225,0.319 0.403,0.319 0.029,0 0.05,-0.003 0.075,-0.009 V 0.229 C 0.691,0.234 0.665,0.237 0.628,0.237 0.442,0.237 0.31,0.097 0.274,-0.103 0.268,-0.139 0.262,-0.181 0.262,-0.226 v -0.775 l -0.262,0 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(112.1094,45.2653)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.108.0.0" id="g510" >
+                                    <path gorn="0.3.0.0.2.0.108.0.0.0" id="path512" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.318 0.183,-0.56 0.441,-0.56 0.252,0 0.442,0.238 0.442,0.566 0,0.246 -0.123,0.559 -0.436,0.559 C 0.135,0.565 0,0.276 0,0 m 1.154,0.015 c 0,-0.538 -0.373,-0.773 -0.724,-0.773 -0.395,0 -0.698,0.289 -0.698,0.749 0,0.487 0.319,0.773 0.721,0.773 0.418,0 0.701,-0.304 0.701,-0.749" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.109" id="path514" fill-opacity="1" stroke="none" fill="#787878"  d="m 113.594,46.675 h 0.264 v -2.134 h -0.264 z" style="fill-rule:nonzero;"/>
+                        <path gorn="0.3.0.0.2.0.110" id="path516" fill-opacity="1" stroke="none" fill="#787878"  d="m 114.301,46.675 h 0.266 v -2.134 h -0.266 z" style="fill-rule:nonzero;"/>
+                        <g transform="translate(115.9316,45.4099)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.111.0.0" id="g518" >
+                                    <path gorn="0.3.0.0.2.0.111.0.0.0" id="path520" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0.004,0.168 -0.068,0.43 -0.366,0.43 -0.634,0.43 -0.751,0.183 -0.771,0 Z m -0.775,-0.189 c 0.005,-0.359 0.234,-0.505 0.5,-0.505 0.189,0 0.302,0.032 0.402,0.074 l 0.045,-0.189 c -0.094,-0.043 -0.252,-0.09 -0.484,-0.09 -0.448,0 -0.715,0.295 -0.715,0.733 0,0.439 0.257,0.785 0.681,0.785 0.476,0 0.602,-0.418 0.602,-0.685 0,-0.055 -0.006,-0.097 -0.009,-0.123 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(117.5039,45.403)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.112.0.0" id="g522" >
+                                    <path gorn="0.3.0.0.2.0.112.0.0.0" id="path524" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,0.033 -0.002,0.078 -0.012,0.111 -0.039,0.169 -0.183,0.307 -0.382,0.307 -0.273,0 -0.435,-0.24 -0.435,-0.562 0,-0.294 0.143,-0.538 0.43,-0.538 0.176,0 0.339,0.118 0.387,0.316 C -0.002,-0.33 0,-0.294 0,-0.252 Z m 0.266,1.271 v -1.757 c 0,-0.13 0.002,-0.277 0.011,-0.376 H 0.039 L 0.027,-0.609 H 0.021 c -0.081,-0.163 -0.257,-0.287 -0.496,-0.287 -0.351,0 -0.622,0.298 -0.622,0.74 -0.003,0.484 0.298,0.782 0.653,0.782 0.221,0 0.372,-0.105 0.438,-0.223 H 0 v 0.868 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(119.1016,45.1237)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.113.0.0" id="g526" >
+                                    <path gorn="0.3.0.0.2.0.113.0.0.0" id="path528" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.033 0.006,-0.066 0.012,-0.096 0.05,-0.183 0.205,-0.309 0.396,-0.309 0.278,0 0.443,0.224 0.443,0.558 C 0.851,0.445 0.7,0.694 0.418,0.694 0.237,0.694 0.069,0.571 0.016,0.37 0.009,0.34 0,0.304 0,0.262 Z m -0.273,-0.583 c 0.005,0.1 0.011,0.246 0.011,0.376 V 1.551 H 0 V 0.638 H 0.006 C 0.1,0.8 0.268,0.905 0.502,0.905 c 0.361,0 0.616,-0.301 0.613,-0.743 0,-0.519 -0.328,-0.778 -0.652,-0.778 -0.211,0 -0.379,0.081 -0.486,0.273 h -0.01 l -0.012,-0.24 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(120.6221,45.9958)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.114.0.0" id="g530" >
+                                    <path gorn="0.3.0.0.2.0.114.0.0.0" id="path532" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 0.319,-0.86 c 0.034,-0.096 0.069,-0.21 0.093,-0.297 h 0.006 c 0.027,0.087 0.058,0.198 0.093,0.303 L 0.8,0 H 1.079 L 0.683,-1.037 C 0.493,-1.536 0.364,-1.792 0.184,-1.948 0.054,-2.063 -0.075,-2.107 -0.142,-2.119 l -0.065,0.223 c 0.065,0.02 0.153,0.062 0.231,0.128 0.073,0.057 0.163,0.16 0.223,0.295 0.012,0.027 0.021,0.048 0.021,0.063 0,0.015 -0.006,0.036 -0.019,0.069 L -0.288,0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(123.6328,45.4909)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.115.0.0" id="g534" >
+                                    <path gorn="0.3.0.0.2.0.115.0.0.0" id="path536" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 H -0.787 V -0.73 H 0.09 v -0.22 h -1.139 v 2.026 h 1.094 v -0.22 h -0.832 v -0.64 l 0.787,0 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(124.0508,45.6022)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.116.0.0" id="g538" >
+                                    <path gorn="0.3.0.0.2.0.116.0.0.0" id="path540" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.149 -0.003,0.273 -0.012,0.394 H 0.223 L 0.238,0.153 h 0.006 c 0.072,0.138 0.24,0.274 0.481,0.274 0.201,0 0.513,-0.12 0.513,-0.619 v -0.87 H 0.975 v 0.839 c 0,0.235 -0.088,0.43 -0.337,0.43 -0.175,0 -0.31,-0.123 -0.355,-0.27 C 0.271,-0.097 0.265,-0.142 0.265,-0.187 V -1.062 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(126.4824,45.2829)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.117.0.0" id="g542" >
+                                    <path gorn="0.3.0.0.2.0.117.0.0.0" id="path544" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c -0.289,0.006 -0.616,-0.045 -0.616,-0.327 0,-0.172 0.114,-0.253 0.249,-0.253 0.189,0 0.31,0.12 0.351,0.244 C -0.006,-0.31 0,-0.279 0,-0.252 Z M 0.039,-0.742 0.018,-0.559 H 0.01 c -0.082,-0.114 -0.239,-0.216 -0.446,-0.216 -0.294,0 -0.445,0.208 -0.445,0.418 0,0.351 0.313,0.544 0.875,0.541 v 0.03 c 0,0.12 -0.033,0.337 -0.33,0.337 -0.136,0 -0.277,-0.043 -0.379,-0.109 l -0.06,0.174 c 0.12,0.078 0.295,0.13 0.478,0.13 0.444,0 0.553,-0.304 0.553,-0.596 v -0.544 c 0,-0.126 0.006,-0.249 0.023,-0.348 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(127.4238,45.1237)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.118.0.0" id="g546" >
+                                    <path gorn="0.3.0.0.2.0.118.0.0.0" id="path548" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.033 0.006,-0.066 0.012,-0.096 0.05,-0.183 0.204,-0.309 0.396,-0.309 0.278,0 0.442,0.224 0.442,0.558 0,0.292 -0.151,0.541 -0.432,0.541 C 0.236,0.694 0.068,0.571 0.015,0.37 0.008,0.34 0,0.304 0,0.262 Z m -0.273,-0.583 c 0.005,0.1 0.011,0.246 0.011,0.376 V 1.551 H 0 V 0.638 h 0.006 c 0.093,0.162 0.262,0.267 0.496,0.267 0.36,0 0.615,-0.301 0.613,-0.743 0,-0.519 -0.328,-0.778 -0.652,-0.778 -0.211,0 -0.379,0.081 -0.487,0.273 h -0.009 l -0.012,-0.24 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.119" id="path550" fill-opacity="1" stroke="none" fill="#787878"  d="m 128.869,46.675 h 0.264 v -2.134 h -0.264 z" style="fill-rule:nonzero;"/>
+                        <g transform="translate(130.5,45.4099)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.120.0.0" id="g552" >
+                                    <path gorn="0.3.0.0.2.0.120.0.0.0" id="path554" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0.003,0.168 -0.069,0.43 -0.367,0.43 -0.635,0.43 -0.752,0.183 -0.773,0 Z m -0.775,-0.189 c 0.005,-0.359 0.234,-0.505 0.498,-0.505 0.189,0 0.304,0.032 0.403,0.074 l 0.045,-0.189 c -0.093,-0.043 -0.253,-0.09 -0.483,-0.09 -0.449,0 -0.716,0.295 -0.716,0.733 0,0.439 0.258,0.785 0.682,0.785 0.475,0 0.602,-0.418 0.602,-0.685 0,-0.055 -0.007,-0.097 -0.01,-0.123 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(131.6309,44.5407)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.121.0.0" id="g556" >
+                                    <path gorn="0.3.0.0.2.0.121.0.0.0" id="path558" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V 0.162 L 0.208,0.363 C 0.707,0.839 0.932,1.091 0.936,1.386 0.936,1.584 0.84,1.768 0.547,1.768 0.37,1.768 0.223,1.678 0.133,1.603 L 0.049,1.788 c 0.135,0.114 0.328,0.199 0.553,0.199 0.42,0 0.597,-0.289 0.597,-0.568 0,-0.36 -0.261,-0.652 -0.673,-1.049 L 0.37,0.226 V 0.22 H 1.248 V 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(133.7305,44.1774)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.122.0.0" id="g560" >
+                                    <path gorn="0.3.0.0.2.0.122.0.0.0" id="path562" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0.214,0.297 0.379,0.687 0.379,1.229 0.379,1.767 0.217,2.151 0,2.449 H 0.205 C 0.397,2.203 0.599,1.818 0.599,1.226 0.599,0.637 0.397,0.255 0.205,0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(131.1562,38.4089)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.123.0.0" id="g564" >
+                                    <path gorn="0.3.0.0.2.0.123.0.0.0" id="path566" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.508 0.156,-0.797 0.396,-0.797 0.271,0 0.401,0.317 0.401,0.816 0,0.48 -0.124,0.795 -0.398,0.795 C 0.168,0.814 0,0.532 0,0 m 1.061,0.03 c 0,-0.664 -0.247,-1.031 -0.68,-1.031 -0.381,0 -0.64,0.357 -0.646,1.004 0,0.655 0.283,1.017 0.679,1.017 0.412,0 0.647,-0.368 0.647,-0.99" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(133.5234,37.4411)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.124.0.0" id="g568" >
+                                    <path gorn="0.3.0.0.2.0.124.0.0.0" id="path570" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 -0.661,2.026 h 0.282 L -0.062,1.028 C 0.023,0.755 0.1,0.508 0.153,0.271 h 0.006 c 0.058,0.234 0.142,0.49 0.232,0.754 L 0.733,2.026 H 1.014 L 0.289,0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(131.1562,31.3078)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.125.0.0" id="g572" >
+                                    <path gorn="0.3.0.0.2.0.125.0.0.0" id="path574" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.508 0.156,-0.797 0.396,-0.797 0.271,0 0.401,0.317 0.401,0.816 C 0.797,0.5 0.673,0.815 0.399,0.815 0.168,0.815 0,0.533 0,0 m 1.061,0.03 c 0,-0.664 -0.247,-1.031 -0.68,-1.031 -0.381,0 -0.64,0.357 -0.646,1.004 0,0.656 0.283,1.017 0.679,1.017 0.412,0 0.647,-0.367 0.647,-0.99" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(133.5234,30.34)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.126.0.0" id="g576" >
+                                    <path gorn="0.3.0.0.2.0.126.0.0.0" id="path578" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 -0.661,2.027 h 0.282 L -0.062,1.028 C 0.023,0.755 0.1,0.508 0.153,0.271 h 0.006 c 0.058,0.234 0.142,0.49 0.232,0.754 L 0.733,2.027 H 1.014 L 0.289,0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(96.1436,24.2414)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.127.0.0" id="g580" >
+                                    <path gorn="0.3.0.0.2.0.127.0.0.0" id="path582" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.433 0.234,-0.82 0.646,-0.82 0.416,0 0.65,0.382 0.65,0.841 0,0.403 -0.211,0.824 -0.647,0.824 C 0.216,0.845 0,0.445 0,0 m 1.572,0.033 c 0,-0.697 -0.424,-1.067 -0.94,-1.067 -0.535,0 -0.911,0.415 -0.911,1.028 0,0.644 0.399,1.065 0.94,1.065 0.553,0 0.911,-0.424 0.911,-1.026" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(99.2686,23.6369)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.128.0.0" id="g584" >
+                                    <path gorn="0.3.0.0.2.0.128.0.0.0" id="path586" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.15 0.003,-0.282 0.012,-0.396 h -0.235 l -0.014,0.237 h -0.006 c -0.07,-0.117 -0.223,-0.271 -0.482,-0.271 -0.228,0 -0.502,0.126 -0.502,0.638 v 0.851 h 0.265 V 0.253 c 0,-0.276 0.084,-0.463 0.324,-0.463 0.178,0 0.301,0.123 0.35,0.24 0.014,0.039 0.023,0.087 0.023,0.136 V 1.059 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(100.0225,25.1135)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.129.0.0" id="g588" >
+                                    <path gorn="0.3.0.0.2.0.129.0.0.0" id="path590" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V -0.418 H 0.379 V -0.619 H 0 v -0.785 c 0,-0.181 0.052,-0.283 0.198,-0.283 0.07,0 0.121,0.009 0.154,0.018 L 0.364,-1.867 C 0.312,-1.888 0.231,-1.903 0.13,-1.903 c -0.124,0 -0.223,0.039 -0.286,0.111 -0.075,0.078 -0.103,0.207 -0.103,0.379 v 0.794 h -0.224 v 0.201 h 0.224 v 0.349 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(101.3115,23.5441)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.130.0.0" id="g592" >
+                                    <path gorn="0.3.0.0.2.0.130.0.0.0" id="path594" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0.075,-0.048 0.249,-0.123 0.433,-0.123 0.339,0 0.445,0.216 0.442,0.379 C 0.872,0.529 0.626,0.646 0.37,0.646 H 0.223 V 0.845 H 0.37 c 0.192,0 0.436,0.098 0.436,0.33 0,0.157 -0.1,0.295 -0.343,0.295 C 0.307,1.47 0.156,1.4 0.072,1.341 L 0.003,1.533 c 0.102,0.075 0.301,0.151 0.512,0.151 0.384,0 0.558,-0.229 0.558,-0.466 0,-0.202 -0.12,-0.373 -0.361,-0.46 V 0.751 C 0.953,0.703 1.148,0.522 1.148,0.249 c 0,-0.312 -0.243,-0.586 -0.711,-0.586 -0.22,0 -0.413,0.069 -0.508,0.133 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(104.082,25.3264)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.131.0.0" id="g596" >
+                                    <path gorn="0.3.0.0.2.0.131.0.0.0" id="path598" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c -0.22,-0.294 -0.379,-0.686 -0.379,-1.229 0,-0.536 0.165,-0.92 0.379,-1.22 h -0.208 c -0.188,0.249 -0.394,0.634 -0.394,1.22 0.003,0.592 0.206,0.977 0.394,1.229 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(106.4199,23.3068)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.132.0.0" id="g600" >
+                                    <path gorn="0.3.0.0.2.0.132.0.0.0" id="path602" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c -0.096,-0.049 -0.289,-0.097 -0.535,-0.097 -0.57,0 -1,0.362 -1,1.026 0,0.633 0.43,1.064 1.057,1.064 0.253,0 0.412,-0.055 0.482,-0.091 L -0.061,1.689 c -0.098,0.048 -0.24,0.084 -0.408,0.084 -0.474,0 -0.791,-0.303 -0.791,-0.836 0,-0.496 0.286,-0.814 0.78,-0.814 0.159,0 0.321,0.033 0.426,0.084 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(106.8652,23.965)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.133.0.0" id="g604" >
+                                    <path gorn="0.3.0.0.2.0.133.0.0.0" id="path606" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.318 0.183,-0.56 0.441,-0.56 0.252,0 0.442,0.238 0.442,0.566 0,0.246 -0.123,0.559 -0.436,0.559 C 0.135,0.565 0,0.276 0,0 m 1.154,0.015 c 0,-0.538 -0.373,-0.773 -0.724,-0.773 -0.395,0 -0.698,0.289 -0.698,0.749 0,0.487 0.319,0.773 0.721,0.773 0.418,0 0.701,-0.304 0.701,-0.749" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(108.3496,24.302)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.134.0.0" id="g608" >
+                                    <path gorn="0.3.0.0.2.0.134.0.0.0" id="path610" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.149 -0.004,0.273 -0.012,0.394 H 0.223 L 0.237,0.153 h 0.006 c 0.072,0.138 0.241,0.274 0.482,0.274 0.201,0 0.513,-0.12 0.513,-0.619 v -0.87 H 0.974 v 0.839 c 0,0.235 -0.087,0.43 -0.337,0.43 -0.174,0 -0.31,-0.123 -0.355,-0.27 C 0.27,-0.097 0.264,-0.142 0.264,-0.187 V -1.062 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(110.3203,25.1135)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.135.0.0" id="g612" >
+                                    <path gorn="0.3.0.0.2.0.135.0.0.0" id="path614" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V -0.418 H 0.379 V -0.619 H 0 v -0.785 c 0,-0.181 0.052,-0.283 0.199,-0.283 0.069,0 0.12,0.009 0.153,0.018 L 0.364,-1.867 C 0.312,-1.888 0.232,-1.903 0.13,-1.903 c -0.124,0 -0.223,0.039 -0.286,0.111 -0.074,0.078 -0.102,0.207 -0.102,0.379 v 0.794 h -0.225 v 0.201 h 0.225 v 0.349 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(110.9951,24.2414)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.136.0.0" id="g616" >
+                                    <path gorn="0.3.0.0.2.0.136.0.0.0" id="path618" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.171 -0.003,0.318 -0.012,0.454 H 0.22 L 0.229,0.168 h 0.012 c 0.066,0.195 0.225,0.319 0.403,0.319 0.029,0 0.05,-0.003 0.075,-0.009 V 0.229 C 0.691,0.234 0.665,0.237 0.628,0.237 0.442,0.237 0.31,0.097 0.274,-0.103 0.268,-0.139 0.262,-0.181 0.262,-0.226 v -0.775 l -0.262,0 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(112.1094,23.965)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.137.0.0" id="g620" >
+                                    <path gorn="0.3.0.0.2.0.137.0.0.0" id="path622" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.318 0.183,-0.56 0.441,-0.56 0.252,0 0.442,0.238 0.442,0.566 0,0.246 -0.123,0.559 -0.436,0.559 C 0.135,0.565 0,0.276 0,0 m 1.154,0.015 c 0,-0.538 -0.373,-0.773 -0.724,-0.773 -0.395,0 -0.698,0.289 -0.698,0.749 0,0.487 0.319,0.773 0.721,0.773 0.418,0 0.701,-0.304 0.701,-0.749" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.138" id="path624" fill-opacity="1" stroke="none" fill="#787878"  d="m 113.594,25.374 h 0.264 V 23.24 h -0.264 z" style="fill-rule:nonzero;"/>
+                        <path gorn="0.3.0.0.2.0.139" id="path626" fill-opacity="1" stroke="none" fill="#787878"  d="m 114.301,25.374 h 0.266 V 23.24 h -0.266 z" style="fill-rule:nonzero;"/>
+                        <g transform="translate(115.9316,24.1096)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.140.0.0" id="g628" >
+                                    <path gorn="0.3.0.0.2.0.140.0.0.0" id="path630" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0.004,0.168 -0.068,0.43 -0.366,0.43 -0.634,0.43 -0.751,0.183 -0.771,0 Z m -0.775,-0.189 c 0.005,-0.359 0.234,-0.505 0.5,-0.505 0.189,0 0.302,0.032 0.402,0.074 l 0.045,-0.189 c -0.094,-0.043 -0.252,-0.09 -0.484,-0.09 -0.448,0 -0.715,0.295 -0.715,0.733 0,0.439 0.257,0.785 0.681,0.785 0.476,0 0.602,-0.418 0.602,-0.685 0,-0.055 -0.006,-0.097 -0.009,-0.123 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(117.5039,24.1027)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.141.0.0" id="g632" >
+                                    <path gorn="0.3.0.0.2.0.141.0.0.0" id="path634" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,0.033 -0.002,0.078 -0.012,0.111 -0.039,0.169 -0.183,0.307 -0.382,0.307 -0.273,0 -0.435,-0.24 -0.435,-0.562 0,-0.294 0.143,-0.538 0.43,-0.538 0.176,0 0.339,0.118 0.387,0.316 C -0.002,-0.33 0,-0.294 0,-0.252 Z m 0.266,1.271 v -1.757 c 0,-0.13 0.002,-0.277 0.011,-0.376 H 0.039 L 0.027,-0.609 H 0.021 c -0.081,-0.163 -0.257,-0.287 -0.496,-0.287 -0.351,0 -0.622,0.298 -0.622,0.74 -0.003,0.484 0.298,0.782 0.653,0.782 0.221,0 0.372,-0.105 0.438,-0.223 H 0 v 0.868 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(119.1016,23.8234)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.142.0.0" id="g636" >
+                                    <path gorn="0.3.0.0.2.0.142.0.0.0" id="path638" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.033 0.006,-0.066 0.012,-0.096 0.05,-0.183 0.205,-0.309 0.396,-0.309 0.278,0 0.443,0.224 0.443,0.558 C 0.851,0.445 0.7,0.694 0.418,0.694 0.237,0.694 0.069,0.571 0.016,0.37 0.009,0.34 0,0.304 0,0.262 Z m -0.273,-0.583 c 0.005,0.1 0.011,0.246 0.011,0.376 V 1.551 H 0 V 0.638 H 0.006 C 0.1,0.8 0.268,0.905 0.502,0.905 c 0.361,0 0.616,-0.301 0.613,-0.743 0,-0.519 -0.328,-0.778 -0.652,-0.778 -0.211,0 -0.379,0.081 -0.486,0.273 h -0.01 l -0.012,-0.24 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(120.6221,24.6955)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.143.0.0" id="g640" >
+                                    <path gorn="0.3.0.0.2.0.143.0.0.0" id="path642" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 0.319,-0.86 c 0.034,-0.096 0.069,-0.21 0.093,-0.297 h 0.006 c 0.027,0.087 0.058,0.198 0.093,0.303 L 0.8,0 H 1.079 L 0.683,-1.037 C 0.493,-1.536 0.364,-1.792 0.184,-1.948 0.054,-2.063 -0.075,-2.107 -0.142,-2.119 l -0.065,0.223 c 0.065,0.02 0.153,0.062 0.231,0.128 0.073,0.057 0.163,0.16 0.223,0.295 0.012,0.027 0.021,0.048 0.021,0.063 0,0.015 -0.006,0.036 -0.019,0.069 L -0.288,0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(123.6328,24.1906)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.144.0.0" id="g644" >
+                                    <path gorn="0.3.0.0.2.0.144.0.0.0" id="path646" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 H -0.787 V -0.73 H 0.09 v -0.22 h -1.139 v 2.026 h 1.094 v -0.22 h -0.832 v -0.64 l 0.787,0 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(124.0508,24.302)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.145.0.0" id="g648" >
+                                    <path gorn="0.3.0.0.2.0.145.0.0.0" id="path650" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.149 -0.003,0.273 -0.012,0.394 H 0.223 L 0.238,0.153 h 0.006 c 0.072,0.138 0.24,0.274 0.481,0.274 0.201,0 0.513,-0.12 0.513,-0.619 v -0.87 H 0.975 v 0.839 c 0,0.235 -0.088,0.43 -0.337,0.43 -0.175,0 -0.31,-0.123 -0.355,-0.27 C 0.271,-0.097 0.265,-0.142 0.265,-0.187 V -1.062 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(126.4824,23.9826)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.146.0.0" id="g652" >
+                                    <path gorn="0.3.0.0.2.0.146.0.0.0" id="path654" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c -0.289,0.006 -0.616,-0.045 -0.616,-0.327 0,-0.172 0.114,-0.253 0.249,-0.253 0.189,0 0.31,0.12 0.351,0.244 C -0.006,-0.31 0,-0.279 0,-0.252 Z M 0.039,-0.742 0.018,-0.559 H 0.01 c -0.082,-0.114 -0.239,-0.216 -0.446,-0.216 -0.294,0 -0.445,0.208 -0.445,0.418 0,0.351 0.313,0.544 0.875,0.541 v 0.03 c 0,0.12 -0.033,0.337 -0.33,0.337 -0.136,0 -0.277,-0.042 -0.379,-0.109 l -0.06,0.174 c 0.12,0.078 0.295,0.13 0.478,0.13 0.444,0 0.553,-0.304 0.553,-0.596 v -0.544 c 0,-0.126 0.006,-0.249 0.023,-0.348 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(127.4238,23.8234)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.147.0.0" id="g656" >
+                                    <path gorn="0.3.0.0.2.0.147.0.0.0" id="path658" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.033 0.006,-0.066 0.012,-0.096 0.05,-0.183 0.204,-0.309 0.396,-0.309 0.278,0 0.442,0.224 0.442,0.558 0,0.292 -0.151,0.541 -0.432,0.541 C 0.236,0.694 0.068,0.571 0.015,0.37 0.008,0.34 0,0.304 0,0.262 Z m -0.273,-0.583 c 0.005,0.1 0.011,0.246 0.011,0.376 V 1.551 H 0 V 0.638 h 0.006 c 0.093,0.162 0.262,0.267 0.496,0.267 0.36,0 0.615,-0.301 0.613,-0.743 0,-0.519 -0.328,-0.778 -0.652,-0.778 -0.211,0 -0.379,0.081 -0.487,0.273 h -0.009 l -0.012,-0.24 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.148" id="path660" fill-opacity="1" stroke="none" fill="#787878"  d="m 128.869,25.374 h 0.264 V 23.24 h -0.264 z" style="fill-rule:nonzero;"/>
+                        <g transform="translate(130.5,24.1096)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.149.0.0" id="g662" >
+                                    <path gorn="0.3.0.0.2.0.149.0.0.0" id="path664" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0.003,0.168 -0.069,0.43 -0.367,0.43 -0.635,0.43 -0.752,0.183 -0.773,0 Z m -0.775,-0.189 c 0.005,-0.359 0.234,-0.505 0.498,-0.505 0.189,0 0.304,0.032 0.403,0.074 l 0.045,-0.189 c -0.093,-0.043 -0.253,-0.09 -0.483,-0.09 -0.449,0 -0.716,0.295 -0.716,0.733 0,0.439 0.258,0.785 0.682,0.785 0.475,0 0.602,-0.418 0.602,-0.685 0,-0.055 -0.007,-0.097 -0.01,-0.123 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(131.6309,23.2404)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.150.0.0" id="g666" >
+                                    <path gorn="0.3.0.0.2.0.150.0.0.0" id="path668" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 V 0.162 L 0.208,0.363 C 0.707,0.839 0.932,1.091 0.936,1.386 0.936,1.584 0.84,1.768 0.547,1.768 0.37,1.768 0.223,1.678 0.133,1.603 L 0.049,1.788 c 0.135,0.114 0.328,0.199 0.553,0.199 0.42,0 0.597,-0.289 0.597,-0.568 C 1.199,1.058 0.938,0.767 0.526,0.37 L 0.37,0.226 V 0.22 H 1.248 V 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(133.7305,22.8772)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.151.0.0" id="g670" >
+                                    <path gorn="0.3.0.0.2.0.151.0.0.0" id="path672" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0.214,0.297 0.379,0.687 0.379,1.229 0.379,1.767 0.217,2.151 0,2.449 H 0.205 C 0.397,2.203 0.599,1.818 0.599,1.226 0.599,0.637 0.397,0.255 0.205,0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.152" id="path674" fill-opacity="1" stroke="none" fill="#787878"  d="m 130.427,16.141 h -0.261 v 2.026 h 0.261 z" style="fill-rule:nonzero;"/>
+                        <g transform="translate(130.9023,17.2023)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.153.0.0" id="g676" >
+                                    <path gorn="0.3.0.0.2.0.153.0.0.0" id="path678" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.149 -0.002,0.273 -0.012,0.394 H 0.223 L 0.238,0.153 h 0.006 c 0.072,0.138 0.24,0.274 0.481,0.274 0.202,0 0.514,-0.12 0.514,-0.619 v -0.87 H 0.975 v 0.839 c 0,0.235 -0.087,0.43 -0.336,0.43 -0.176,0 -0.311,-0.123 -0.356,-0.27 C 0.271,-0.097 0.266,-0.142 0.266,-0.187 V -1.062 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(133.1826,16.4445)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.154.0.0" id="g680" >
+                                    <path gorn="0.3.0.0.2.0.154.0.0.0" id="path682" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0.075,-0.048 0.249,-0.123 0.433,-0.123 0.339,0 0.445,0.216 0.442,0.379 C 0.872,0.529 0.626,0.646 0.37,0.646 H 0.223 V 0.845 H 0.37 c 0.192,0 0.436,0.098 0.436,0.33 0,0.157 -0.1,0.295 -0.343,0.295 C 0.307,1.47 0.156,1.4 0.072,1.341 L 0.003,1.533 c 0.102,0.075 0.301,0.151 0.512,0.151 0.384,0 0.558,-0.229 0.558,-0.466 0,-0.202 -0.12,-0.373 -0.361,-0.46 V 0.751 C 0.953,0.703 1.148,0.522 1.148,0.249 c 0,-0.312 -0.243,-0.586 -0.711,-0.586 -0.22,0 -0.413,0.069 -0.508,0.133 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(125.1211,9.9904)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.155.0.0" id="g684" >
+                                    <path gorn="0.3.0.0.2.0.155.0.0.0" id="path686" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 h -0.787 v -0.73 h 0.878 v -0.22 h -1.14 v 2.026 h 1.095 v -0.22 h -0.833 v -0.64 l 0.787,0 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(125.5391,10.1018)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.156.0.0" id="g688" >
+                                    <path gorn="0.3.0.0.2.0.156.0.0.0" id="path690" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0,0.149 -0.002,0.273 -0.012,0.394 H 0.223 L 0.238,0.153 h 0.006 c 0.072,0.138 0.24,0.274 0.481,0.274 0.202,0 0.514,-0.12 0.514,-0.619 v -0.87 H 0.975 v 0.839 c 0,0.235 -0.087,0.43 -0.336,0.43 -0.176,0 -0.311,-0.123 -0.356,-0.27 C 0.271,-0.097 0.266,-0.142 0.266,-0.187 V -1.062 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(127.9707,9.7824)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.157.0.0" id="g692" >
+                                    <path gorn="0.3.0.0.2.0.157.0.0.0" id="path694" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c -0.288,0.006 -0.615,-0.045 -0.615,-0.327 0,-0.172 0.113,-0.253 0.249,-0.253 0.189,0 0.309,0.12 0.351,0.244 C -0.006,-0.31 0,-0.279 0,-0.252 Z m 0.039,-0.742 -0.02,0.183 H 0.01 c -0.081,-0.114 -0.239,-0.216 -0.446,-0.216 -0.294,0 -0.445,0.208 -0.445,0.418 0,0.351 0.314,0.544 0.875,0.541 v 0.03 c 0,0.12 -0.033,0.337 -0.33,0.337 -0.135,0 -0.277,-0.043 -0.379,-0.109 l -0.06,0.174 c 0.121,0.078 0.295,0.13 0.478,0.13 0.445,0 0.553,-0.304 0.553,-0.596 v -0.544 c 0,-0.126 0.006,-0.249 0.024,-0.348 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(128.9121,9.6232)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.158.0.0" id="g696" >
+                                    <path gorn="0.3.0.0.2.0.158.0.0.0" id="path698" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 c 0,-0.033 0.006,-0.066 0.012,-0.096 0.05,-0.183 0.205,-0.309 0.396,-0.309 0.278,0 0.443,0.224 0.443,0.558 C 0.851,0.445 0.7,0.694 0.418,0.694 0.237,0.694 0.069,0.571 0.016,0.37 0.009,0.34 0,0.304 0,0.262 Z m -0.273,-0.583 c 0.005,0.1 0.011,0.246 0.011,0.376 V 1.551 H 0 V 0.638 H 0.006 C 0.1,0.8 0.268,0.905 0.502,0.905 c 0.361,0 0.616,-0.301 0.613,-0.743 0,-0.519 -0.328,-0.778 -0.652,-0.778 -0.211,0 -0.379,0.081 -0.486,0.273 h -0.01 l -0.012,-0.24 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.159" id="path700" fill-opacity="1" stroke="none" fill="#787878"  d="m 130.357,11.174 h 0.265 V 9.04 h -0.265 z" style="fill-rule:nonzero;"/>
+                        <g transform="translate(131.9883,9.9094)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.160.0.0" id="g702" >
+                                    <path gorn="0.3.0.0.2.0.160.0.0.0" id="path704" fill-opacity="1" stroke="none" fill="#787878"  d="M 0,0 C 0.004,0.168 -0.068,0.43 -0.367,0.43 -0.635,0.43 -0.752,0.183 -0.772,0 Z m -0.775,-0.189 c 0.005,-0.359 0.234,-0.505 0.499,-0.505 0.189,0 0.303,0.032 0.403,0.074 l 0.045,-0.189 c -0.094,-0.043 -0.253,-0.09 -0.484,-0.09 -0.448,0 -0.715,0.295 -0.715,0.733 0,0.439 0.257,0.785 0.681,0.785 0.475,0 0.602,-0.418 0.602,-0.685 0,-0.055 -0.006,-0.097 -0.01,-0.123 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(133.1201,9.0402)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.161.0.0" id="g706" >
+                                    <path gorn="0.3.0.0.2.0.161.0.0.0" id="path708" fill-opacity="1" stroke="none" fill="#787878"  d="m 0,0 v 0.162 l 0.208,0.201 c 0.498,0.476 0.724,0.728 0.727,1.023 0,0.198 -0.096,0.382 -0.388,0.382 -0.177,0 -0.324,-0.09 -0.415,-0.165 L 0.048,1.788 c 0.136,0.114 0.328,0.199 0.553,0.199 0.421,0 0.598,-0.289 0.598,-0.568 0,-0.36 -0.261,-0.652 -0.673,-1.049 L 0.37,0.226 V 0.22 H 1.247 V 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(57.1553,34.2487)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.162.0.0" id="g710" >
+                                    <path gorn="0.3.0.0.2.0.162.0.0.0" id="path712" fill-opacity="1" stroke="none" fill="#000000"  d="M 0,0 H 0.436 V -3.008 H 1.877 V -3.374 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(59.3613,30.8752)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.163.0.0" id="g714" >
+                                    <path gorn="0.3.0.0.2.0.163.0.0.0" id="path716" fill-opacity="1" stroke="none" fill="#000000"  d="m 0,0 v 0.271 l 0.345,0.334 c 0.831,0.792 1.206,1.212 1.211,1.703 0,0.33 -0.16,0.635 -0.646,0.635 -0.295,0 -0.54,-0.15 -0.69,-0.275 l -0.14,0.31 c 0.225,0.19 0.545,0.331 0.921,0.331 0.7,0 0.996,-0.48 0.996,-0.946 0,-0.601 -0.435,-1.086 -1.121,-1.748 L 0.615,0.375 V 0.365 H 2.077 V 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(62.3408,33.0583)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.164.0.0" id="g718" >
+                                    <path gorn="0.3.0.0.2.0.164.0.0.0" id="path720" fill-opacity="1" stroke="none" fill="#000000"  d="m 0,0 c 0,-0.406 0.245,-0.691 0.626,-0.691 0.295,0 0.525,0.145 0.641,0.34 0.024,0.04 0.04,0.09 0.04,0.161 0,0.555 -0.205,0.98 -0.666,0.98 C 0.266,0.79 0,0.46 0,0 m -0.16,-1.873 c 0.095,-0.01 0.205,0 0.355,0.015 0.255,0.035 0.495,0.141 0.681,0.316 0.215,0.195 0.37,0.48 0.431,0.866 H 1.291 c -0.18,-0.22 -0.44,-0.35 -0.766,-0.35 -0.586,0 -0.961,0.44 -0.961,0.996 0,0.615 0.446,1.156 1.112,1.156 0.666,0 1.076,-0.541 1.076,-1.372 0,-0.715 -0.24,-1.216 -0.561,-1.527 -0.25,-0.245 -0.595,-0.395 -0.946,-0.435 -0.16,-0.025 -0.3,-0.03 -0.405,-0.025 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(64.5947,31.3811)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.165.0.0" id="g722" >
+                                    <path gorn="0.3.0.0.2.0.165.0.0.0" id="path724" fill-opacity="1" stroke="none" fill="#000000"  d="m 0,0 c 0.125,-0.08 0.416,-0.206 0.721,-0.206 0.565,0 0.741,0.361 0.736,0.631 C 1.451,0.881 1.041,1.076 0.616,1.076 H 0.371 v 0.331 h 0.245 c 0.321,0 0.726,0.165 0.726,0.55 0,0.26 -0.165,0.491 -0.571,0.491 -0.26,0 -0.51,-0.115 -0.651,-0.216 l -0.115,0.32 c 0.171,0.125 0.501,0.251 0.851,0.251 0.641,0 0.931,-0.381 0.931,-0.776 0,-0.335 -0.2,-0.62 -0.6,-0.766 v -0.01 c 0.4,-0.08 0.725,-0.38 0.725,-0.836 0,-0.52 -0.405,-0.976 -1.186,-0.976 -0.366,0 -0.686,0.115 -0.846,0.22 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(67.6445,31.2209)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.166.0.0" id="g726" >
+                                    <path gorn="0.3.0.0.2.0.166.0.0.0" id="path728" fill-opacity="1" stroke="none" fill="#000000"  d="m 0,0 c 0.11,-0.021 0.271,-0.025 0.44,-0.025 0.932,0 1.437,0.52 1.437,1.432 C 1.882,2.203 1.432,2.708 0.511,2.708 0.286,2.708 0.115,2.688 0,2.663 Z m -0.435,2.983 c 0.265,0.04 0.581,0.07 0.926,0.07 0.625,0 1.071,-0.145 1.366,-0.421 C 2.157,2.357 2.333,1.967 2.333,1.421 2.333,0.871 2.162,0.42 1.847,0.109 1.532,-0.206 1.012,-0.376 0.355,-0.376 c -0.309,0 -0.57,0.016 -0.79,0.04 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(74.4424,32.3571)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.167.0.0" id="g730" >
+                                    <path gorn="0.3.0.0.2.0.167.0.0.0" id="path732" fill-opacity="1" stroke="none" fill="#000000"  d="M 0,0 C -0.025,0.471 -0.056,1.036 -0.051,1.456 H -0.065 C -0.181,1.061 -0.32,0.641 -0.491,0.175 l -0.596,-1.636 h -0.33 l -0.546,1.607 c -0.16,0.475 -0.295,0.91 -0.39,1.31 h -0.01 c -0.01,-0.42 -0.034,-0.985 -0.065,-1.491 l -0.09,-1.447 h -0.416 l 0.236,3.374 h 0.555 L -1.567,0.26 c 0.14,-0.415 0.255,-0.785 0.34,-1.136 h 0.015 c 0.085,0.341 0.205,0.711 0.356,1.136 l 0.6,1.632 H 0.3 L 0.51,-1.482 H 0.085 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.168" id="path734" fill-opacity="1" stroke="none" fill="#000000"  d="m 75.663,33.299 h 0.44 v -2.423 h -0.44 z m 0.49,0.679 c 0.006,-0.149 -0.104,-0.269 -0.28,-0.269 -0.155,0 -0.265,0.12 -0.265,0.269 0,0.155 0.116,0.276 0.276,0.276 0.165,0 0.269,-0.121 0.269,-0.276" style="fill-rule:nonzero;"/>
+                        <g transform="translate(76.833,32.6423)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.169.0.0" id="g736" >
+                                    <path gorn="0.3.0.0.2.0.169.0.0.0" id="path738" fill-opacity="1" stroke="none" fill="#000000"  d="m 0,0 c 0,0.25 -0.005,0.455 -0.02,0.656 h 0.39 l 0.026,-0.4 h 0.009 c 0.12,0.229 0.401,0.455 0.801,0.455 0.336,0 0.857,-0.2 0.857,-1.031 V -1.767 H 1.622 v 1.397 c 0,0.391 -0.145,0.716 -0.56,0.716 C 0.771,0.346 0.546,0.141 0.471,-0.105 0.45,-0.16 0.44,-0.235 0.44,-0.311 V -1.767 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.170" id="path740" fill-opacity="1" stroke="none" fill="#000000"  d="m 79.608,33.299 h 0.44 v -2.423 h -0.44 z m 0.491,0.679 c 0.005,-0.149 -0.105,-0.269 -0.281,-0.269 -0.155,0 -0.264,0.12 -0.264,0.269 0,0.155 0.115,0.276 0.275,0.276 0.165,0 0.27,-0.121 0.27,-0.276" style="fill-rule:nonzero;"/>
+                        <g transform="translate(81.793,31.4055)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.171.0.0" id="g742" >
+                                    <path gorn="0.3.0.0.2.0.171.0.0.0" id="path744" fill-opacity="1" stroke="none" fill="#000000"  d="m 0,0 c 0.195,-0.12 0.48,-0.22 0.78,-0.22 0.447,0 0.706,0.236 0.706,0.575 0,0.316 -0.179,0.497 -0.635,0.672 -0.551,0.195 -0.891,0.48 -0.891,0.956 0,0.525 0.436,0.916 1.091,0.916 0.345,0 0.595,-0.08 0.746,-0.166 L 1.677,2.378 C 1.566,2.438 1.341,2.539 1.036,2.539 0.575,2.539 0.4,2.263 0.4,2.033 0.4,1.717 0.605,1.562 1.071,1.382 1.642,1.162 1.932,0.886 1.932,0.391 1.932,-0.13 1.547,-0.58 0.751,-0.58 c -0.325,0 -0.681,0.095 -0.861,0.215 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(84.3027,34.4294)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.172.0.0" id="g746" >
+                                    <path gorn="0.3.0.0.2.0.172.0.0.0" id="path748" fill-opacity="1" stroke="none" fill="#000000"  d="m 0,0 h 0.44 v -1.512 h 0.01 c 0.071,0.125 0.181,0.236 0.316,0.311 0.13,0.075 0.285,0.125 0.45,0.125 0.326,0 0.847,-0.2 0.847,-1.036 V -3.554 H 1.622 v 1.392 c 0,0.391 -0.145,0.721 -0.56,0.721 -0.286,0 -0.511,-0.201 -0.591,-0.441 C 0.445,-1.942 0.44,-2.007 0.44,-2.092 V -3.554 H 0 Z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.173" id="path750" fill-opacity="1" stroke="none" fill="#000000"  d="m 87.078,33.299 h 0.44 v -2.423 h -0.44 z m 0.49,0.679 c 0.005,-0.149 -0.104,-0.269 -0.28,-0.269 -0.154,0 -0.265,0.12 -0.265,0.269 0,0.155 0.116,0.276 0.276,0.276 0.165,0 0.269,-0.121 0.269,-0.276" style="fill-rule:nonzero;"/>
+                        <g transform="translate(89.7842,32.322)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.174.0.0" id="g752" >
+                                    <path gorn="0.3.0.0.2.0.174.0.0.0" id="path754" fill-opacity="1" stroke="none" fill="#000000"  d="M 0,0 C 0.006,0.28 -0.114,0.716 -0.61,0.716 -1.056,0.716 -1.251,0.306 -1.286,0 Z m -1.291,-0.315 c 0.01,-0.597 0.391,-0.842 0.831,-0.842 0.315,0 0.506,0.056 0.671,0.125 l 0.075,-0.314 c -0.155,-0.071 -0.421,-0.151 -0.806,-0.151 -0.746,0 -1.191,0.491 -1.191,1.222 0,0.73 0.43,1.306 1.136,1.306 0.791,0 1.001,-0.695 1.001,-1.141 0,-0.09 -0.01,-0.161 -0.015,-0.205 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path gorn="0.3.0.0.2.0.175" id="path756" fill-opacity="1" stroke="none" fill="#000000"  d="m 90.753,34.429 h 0.44 v -3.554 h -0.44 z" style="fill-rule:nonzero;"/>
+                        <g transform="translate(93.584,32.3122)" >
+                            <g >
+                                <g gorn="0.3.0.0.2.0.176.0.0" id="g758" >
+                                    <path gorn="0.3.0.0.2.0.176.0.0.0" id="path760" fill-opacity="1" stroke="none" fill="#000000"  d="m 0,0 c 0,0.055 -0.005,0.13 -0.02,0.186 -0.065,0.279 -0.305,0.509 -0.635,0.509 -0.455,0 -0.726,-0.4 -0.726,-0.935 0,-0.491 0.24,-0.897 0.716,-0.897 0.295,0 0.565,0.195 0.645,0.526 0.015,0.06 0.02,0.121 0.02,0.19 z m 0.44,2.117 v -2.928 c 0,-0.216 0.006,-0.461 0.021,-0.626 H 0.065 L 0.046,-1.016 H 0.035 C -0.1,-1.287 -0.396,-1.492 -0.79,-1.492 c -0.586,0 -1.036,0.495 -1.036,1.231 -0.005,0.806 0.495,1.302 1.086,1.302 0.37,0 0.62,-0.176 0.73,-0.37 H 0 v 1.446 z" style="fill-rule:nonzero;"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

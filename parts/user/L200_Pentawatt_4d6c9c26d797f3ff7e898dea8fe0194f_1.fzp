@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<module fritzingVersion="0.9.3b" moduleId="L200_Pentawatt_4d6c9c26d797f3ff7e898dea8fe0194f_1" referenceFile="LM2575_34b646c5ea3c63e1448f2645e1cdd66c_1.fzp">
+ <version>4</version>
+ <author>SK</author>
+ <title>L200</title>
+ <label>U</label>
+ <date>mar. janv. 4 2022</date>
+ <tags>
+  <tag>L200</tag>
+  <tag>regulator</tag>
+  <tag>contrib</tag>
+  <tag>fritzing user</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 1</property>
+  <property name="family">regulator</property>
+  <property name="Manufacturer">STMicroelectronics</property>
+  <property name="package">pentawatt h</property>
+  <property name="part number"></property>
+  <property name="layer"></property>
+ </properties>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'.SF NS Text'; font-size:13pt;">ADJUSTABLE VOLTAGE AND CURRENT REGULATOR&lt;/span>&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/L200_Pentawatt_304b7935d9cd86ddd70358dbb0afec36_2_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/L200_Pentawatt_304b7935d9cd86ddd70358dbb0afec36_2_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/L200_Pentawatt_304b7935d9cd86ddd70358dbb0afec36_2_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/L200_Pentawatt_304b7935d9cd86ddd70358dbb0afec36_2_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector name="INPUT" type="pad" id="connector0">
+   <description>Vin</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector0pin"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" layer="schematic" svgId="connector0pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper1" svgId="connector0pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="LIMIT" type="pad" id="connector1">
+   <description>LIMITING</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector1pin"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector1terminal" layer="schematic" svgId="connector1pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper1" svgId="connector1pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="GND" type="pad" id="connector2">
+   <description>ground</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector2pin"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" layer="schematic" svgId="connector2pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper1" svgId="connector2pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="REF" type="pad" id="connector3">
+   <description>REFERENCE</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector3pin"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector3terminal" layer="schematic" svgId="connector3pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper1" svgId="connector3pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="OUTPUT" type="pad" id="connector4">
+   <description>OUTPUT</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector4pin"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector4terminal" layer="schematic" svgId="connector4pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper1" svgId="connector4pin"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>https://www.st.com/resource/en/datasheet/cd00000128.pdf
+
+</url>
+</module>
